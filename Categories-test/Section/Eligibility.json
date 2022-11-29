@@ -1,0 +1,1014 @@
+{
+    "9f978634-637c-472f-a588-6f4bb2fb121f": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01129622",
+        "Secondary_id": "NCT01156987",
+        "Statement": "Women suffering from both claustrophobia and IBS or not eligible for either the primary trial or the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "20b34e62-97c2-4ca0-bb1d-7824dab0b8bb": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00322374",
+        "Statement": "There are no conditions on mental mental health, bodyweight, size of tumours, Karnofsky/ECOG score or Estimated life expectancy that need to be met in order to be eligible for the primary trial ",
+        "Label": "Entailment"
+    },
+    "893a5337-2aa9-4a87-a020-4c2f03cd4aea": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00122369",
+        "Secondary_id": "NCT03069313",
+        "Statement": "the secondary trial requires patients to be over a certain age, but the primary trial does not specify an age range for participation.",
+        "Label": "Entailment"
+    },
+    "d401affc-f081-4eee-bd61-d109cc88f6de": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT04080297",
+        "Secondary_id": "NCT00929240",
+        "Statement": "Patients currently taking part in the secondary trial are not eligible to enroll in the primary trial at the same time",
+        "Label": "Entailment"
+    },
+    "4988cb16-7dbb-4847-84e0-4a7957b32c72": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01256567",
+        "Secondary_id": "NCT00429182",
+        "Statement": "a patient that has received an organ transplant within the last month, and is still bedridden would be excluded from the primary trial but may be eligible for the secondary trial",
+        "Label": "Contradiction"
+    },
+    "e244fc3a-53b3-4158-99c5-a45afc726af6": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01205503",
+        "Secondary_id": "NCT01286168",
+        "Statement": "Any patients with Documented allergy to cephalosporin or trimethoprim/sulfamethoxazole will not be eligible for the secondary trial and documented allergy to levofloxacin or celecoxib will also result in exclusion from the primary trial.",
+        "Label": "Contradiction"
+    },
+    "d3379655-55b7-4e58-88c2-c3cd3e8cb557": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01783444",
+        "Secondary_id": "NCT03346161",
+        "Statement": " Women with Newly diagnosed stage IV breast cancer, confirmed as ER+  Considering a mastectomy are eligible for the primary trial and the secondary trial",
+        "Label": "Contradiction"
+    },
+    "7bf988b4-5e6f-41c4-bef6-7b3549dd58d9": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00321464",
+        "Secondary_id": "NCT01963481",
+        "Statement": "Patients with histologically confirmed stage 4 breast adenocarcinoma that is either ER positive, PR positive, or HER2/neu negative are eligible for both the secondary trial and the primary trial.",
+        "Label": "Contradiction"
+    },
+    "4437aa5b-4b4e-4eb4-a258-e7f17dc8f363": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00146172",
+        "Secondary_id": "NCT00262834",
+        "Statement": "candidates Capable of only limited selfcare; confined to bed or chair more than 50% of waking hours are eligible for both the primary trial and the secondary trial",
+        "Label": "Contradiction"
+    },
+    "54c7e880-a1bf-4206-9573-1c994932ba15": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT03202472",
+        "Secondary_id": "NCT01554371",
+        "Statement": "Patients who have received chemotherapy or radiotherapy in the last 2 weeks, suffer from unstable angina, or have Grade 2 or above neuropathy cannot take part in the secondary trial, but can still take part in the primary trial, unless they have non-healing surgical wounds.",
+        "Label": "Contradiction"
+    },
+    "f9f0ba74-16e0-4790-afa0-b7616b256e5e": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00971945",
+        "Secondary_id": "NCT00418028",
+        "Statement": "the secondary trial  candidates must meet some Performance Status condition to participate, whereas this is not required to be accepted into the primary trial",
+        "Label": "Entailment"
+    },
+    "97acf304-2707-4a1b-81e7-339fde2ed0ee": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01823991",
+        "Statement": "patients with Fronto-temporal dementia or Mixed dementia are eligible for the primary trial",
+        "Label": "Contradiction"
+    },
+    "8d27bb53-e66e-4eab-bea4-0597fd5760b5": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02734979",
+        "Secondary_id": "NCT02306265",
+        "Statement": "Patients that have a history of pulmonary embolisms and currently have breast implants cannot participate in the secondary trial or the primary trial.",
+        "Label": "Entailment"
+    },
+    "b685be77-9c55-4948-99cc-2a249739a233": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00377156",
+        "Secondary_id": "NCT00741039",
+        "Statement": "Diagnosis of 2-3 cerebral metastases will result in exclusion from the secondary trial, however patients with this diagnosis may still be eligilbe for the primary trial.",
+        "Label": "Entailment"
+    },
+    "5fbee4f6-43fc-45a7-88c4-3dcd5ff21053": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00693719",
+        "Statement": "A patient diagnosed with a leptomeningeal carcinoma would not be eligible for the primary trial",
+        "Label": "Entailment"
+    },
+    "8127d46a-3a48-4173-8d00-75e949755a74": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00800436",
+        "Secondary_id": "NCT00702949",
+        "Statement": "Prior treatment with gabapentin or herceptin within the last year, will result in exclusion from the secondary trial, but not from the primary trial.",
+        "Label": "Contradiction"
+    },
+    "fd334e71-2bbe-4138-b578-2ab848686045": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01989546",
+        "Secondary_id": "NCT01171924",
+        "Statement": "CBT based treatments are prohibited for the primary trial candidates, however they may still be eligible for the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "d1118512-9c0b-4480-ab67-d4e0c7de390d": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00544167",
+        "Secondary_id": "NCT01597193",
+        "Statement": "Patients that have suffered a pulmonary embolism within the last 3 years are excluded from the primary trial, but may be eligible for the secondary trial depending on the Investigators decision",
+        "Label": "Contradiction"
+    },
+    "9349c7c8-7771-4dfc-8981-3c8d84ac5236": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01194440",
+        "Statement": "Patients diagnosed with Ductal carcinoma in situ who are considering AI therapy are eligible for the primary trial.",
+        "Label": "Entailment"
+    },
+    "49b3b463-a496-404a-a3a5-07cd7d4aaa92": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01138046",
+        "Secondary_id": "NCT00709761",
+        "Statement": "Only female patients of a specific nationality can take part in the primary trial, no such condition is required for participation in the secondary trial.",
+        "Label": "Entailment"
+    },
+    "646691ba-ad29-479f-81dc-131d9710c23b": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00377156",
+        "Secondary_id": "NCT00741039",
+        "Statement": "Diagnosis of 2-3 cerebral metastases within the brainstem will result in exclusion from the secondary trial, however patients with this diagnosis may still be eligilbe for the primary trial.",
+        "Label": "Contradiction"
+    },
+    "e12e5ed1-9a64-4183-9b9d-419e6679ab3d": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01554371",
+        "Secondary_id": "NCT02550795",
+        "Statement": "Any patients with Significant or uncontrolled cardiovascular impairment cannot participate in either the primary trial or the secondary trial.",
+        "Label": "Entailment"
+    },
+    "73849f1e-31c6-40c5-ab5c-35d0990ceac2": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00999921",
+        "Secondary_id": "NCT00569166",
+        "Statement": "Patients diagnosed with malignant ductal carcinoma in situ are eligible for the secondary trial but excluded from the primary trial.",
+        "Label": "Entailment"
+    },
+    "77fd9a89-4d9b-40ab-b4ad-fcf554ca68d2": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02761642",
+        "Secondary_id": "NCT02640053",
+        "Statement": "Any cancer patient diagnosed with either Epilepsy , thalasemic syndromes or anemia cannot be eligible for both the primary trial and the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "d88235dd-c37b-4971-9c1f-42b282ff41c1": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01569087",
+        "Secondary_id": "NCT01869192",
+        "Statement": "Patients with stage 4 cancer are eligible for the secondary trial and the primary trial, if they provide informed consent.",
+        "Label": "Contradiction"
+    },
+    "7ce21c0f-ad55-4ff7-a180-5e418fe9afc8": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01569087",
+        "Secondary_id": "NCT01869192",
+        "Statement": "Patients with stage 4 cancer are not eligible for the secondary trial, however they are eligible for the primary trial.",
+        "Label": "Entailment"
+    },
+    "6c5ebc06-00c4-4cf5-8912-93972ed5a49b": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT03202472",
+        "Secondary_id": "NCT01554371",
+        "Statement": "Patients who have received chemotherapy or radiotherapy in the last 2 weeks, suffer from unstable angina, or have Grade 2 or above neuropathy cannot take part in the secondary trial, but can still take part in the primary trial if they satisfy all of the relevant inclusion criteria.",
+        "Label": "Entailment"
+    },
+    "b742bc02-cd24-4ae7-b8b8-2a57bbd60d14": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00405938",
+        "Statement": "Patients can not have a history of abdominal fistula, gastrointestinal perforation,Postmenopausal adenocarcinoma, stroke, transient ischemic attacks, intrabdominal abscess or significant psychiatric disorders within the last 6 months if they want to participate in the primary trial",
+        "Label": "Contradiction"
+    },
+    "334b5f86-50c5-4711-994d-31ed67dd4282": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00583700",
+        "Secondary_id": "NCT02431676",
+        "Statement": "women aged 18 or older are eligible for the secondary trial and the primary trial",
+        "Label": "Contradiction"
+    },
+    "fa7b34e2-75e6-4bc4-a154-99be5bd6b381": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01045421",
+        "Secondary_id": "NCT01390818",
+        "Statement": "Unlike the primary trial, patients must be diagnosed with a mutation in the one of the following genes; PTEN, BRAF, KRAS, NRAS, PI3KCA, ErbB1, ErbB2, MET, RET, c-KIT, GNAQ or GNA11 to be included in the secondary trial",
+        "Label": "Contradiction"
+    },
+    "da24d6fd-1363-489b-ac5a-f44dbe622c5d": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01023477",
+        "Secondary_id": "NCT00687102",
+        "Statement": "Hypokalemic patients are excluded from the primary trial, but hyperkalemic patients may be eligible for the secondary trial and the primary trial.",
+        "Label": "Contradiction"
+    },
+    "af0e8d9b-f748-424d-a4e7-6bb3bf0ee7a2": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01772004",
+        "Statement": "African-american patients can participate in the primary trial.",
+        "Label": "Entailment"
+    },
+    "2bd78232-4872-4d66-ade9-836190b86e1d": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00693719",
+        "Statement": "A patient diagnosed with a neoplastic meningitis could be eligible for the primary trial",
+        "Label": "Contradiction"
+    },
+    "539bf07d-199d-4c9b-af16-5f314962bcfc": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00209092",
+        "Statement": "Even if a patient satisfies all of the exclusion and inclusion criteria for the primary trial, the final decision for inclusion will be made by the patients first of kin.",
+        "Label": "Contradiction"
+    },
+    "00831e0c-eaad-4fe9-a791-f105815fa215": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01963481",
+        "Secondary_id": "NCT01011218",
+        "Statement": "Patients suffering from severe insomnia are excluded from both the primary trial and the secondary trial",
+        "Label": "Contradiction"
+    },
+    "6734e552-d882-446e-a02f-c6bbe2eeb6ed": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00365105",
+        "Secondary_id": "NCT02104830",
+        "Statement": "A 32 year old patient with Histologically verified diagnosis of stage III breast cancer, Absolute neutrophil count of 1807/\u2248\u00ed\u00ac\u222bL, Platelet count of 110,034/\u2248\u00ed\u00ac\u222bL, Hemoglobin level of 90 g/l, and a Life expectancy exceeding 8 months would be eligible for both the primary trial and the secondary trial.",
+        "Label": "Entailment"
+    },
+    "3a4198ab-ae79-4200-b073-860b2e86813d": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02734979",
+        "Secondary_id": "NCT02306265",
+        "Statement": "Patients that have a history of pulmonary embolisms cannot take part in the secondary trial, and those who currently have breast implants cannot participate in the primary trial.",
+        "Label": "Contradiction"
+    },
+    "327d67d2-35e7-45c3-958a-7955905f2d57": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00544167",
+        "Secondary_id": "NCT01597193",
+        "Statement": "Patients that have suffered a pulmonary embolism in the last 2 months are excluded from the primary trial, but may be eligible for the secondary trial depending on the Investigators decision",
+        "Label": "Entailment"
+    },
+    "a1807b6a-6ee6-4c74-bf44-53d39c31c66f": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02404441",
+        "Secondary_id": "NCT01008904",
+        "Statement": "the secondary trial has the same inclusion/exclusion criteria for all participants, whereas the primary trial has 2 sets of inclusion criteria, one for the 18-50 age group and one for the 50+ age group.",
+        "Label": "Contradiction"
+    },
+    "88857141-6207-4828-b8d4-09d7cc4498c3": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01256567",
+        "Secondary_id": "NCT00429182",
+        "Statement": "a patient that has received an organ transplant within the last month, would be excluded from the primary trial but may be eligible for the secondary trial",
+        "Label": "Entailment"
+    },
+    "f03664fa-20b3-4102-b1e2-fe901d028f65": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00583700",
+        "Secondary_id": "NCT02431676",
+        "Statement": "women aged 18 or 19 are eligible for the secondary trial, but will need to wait 1-2 years to be eligible for the primary trial",
+        "Label": "Entailment"
+    },
+    "9340e38d-37ce-4634-9f36-a747f964441c": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00429299",
+        "Statement": "All the primary trial candidates must have a HER2 positive tumor confirmed by IHC 3+, aswell as Requiring considerable assistance and frequent medical care",
+        "Label": "Contradiction"
+    },
+    "b5f68d8f-0c92-4f58-9740-78556c039e58": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02259114",
+        "Secondary_id": "NCT01246973",
+        "Statement": "Patients with NUT midline carcinoma or Castrate-resistant prostate cancer, determined by fluorescence In situ hybridization, or inflammatory breast cancer are eligible for both the primary trial and the secondary trial.",
+        "Label": "Entailment"
+    },
+    "ceb02a85-73a3-4c00-823e-fb88bc91d239": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02312934",
+        "Secondary_id": "NCT00293384",
+        "Statement": "Smokers are excluded from the primary trial but may be eligible for the secondary trial if they drink less than 5 alcoholic drinks a day.",
+        "Label": "Entailment"
+    },
+    "5abfa152-2c23-40b4-ba00-b28336b8b8b5": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00209092",
+        "Statement": "Even if a patient satisfies all of the exclusion and inclusion criteria for the primary trial, the final decision for inclusion will be made by the health professionals conducting the trial.",
+        "Label": "Entailment"
+    },
+    "7eab2fc5-fd40-40bc-a960-90aafe45ef9e": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00365105",
+        "Secondary_id": "NCT02104830",
+        "Statement": "A 32 year old patient with Histologically verified diagnosis of stage III breast cancer, Absolute neutrophil count of 1807/\u2248\u00ed\u00ac\u222bL, Platelet count of 79000/\u2248\u00ed\u00ac\u222bL, Hemoglobin level of 90 g/l, and a Life expectancy exceeding 8 months would be eligible for both the primary trial and the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "0967b501-90dd-4ba4-bebc-8db1e9695431": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01823991",
+        "Statement": " Alzheimer's patients are not eligible for the primary trial",
+        "Label": "Entailment"
+    },
+    "ef1d6dfa-2cd0-4e19-99b7-a813d6952706": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00432562",
+        "Secondary_id": "NCT00122369",
+        "Statement": "The only shared inclusion/exclusion criteria between the secondary trial and the primary trial is the ability to provide written informed consent.",
+        "Label": "Entailment"
+    },
+    "2a95f6b8-fbdd-47e6-949f-8aee18a2c605": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01138046",
+        "Secondary_id": "NCT00709761",
+        "Statement": "Any japanese national can take part in the primary trial, or the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "15d7d028-69c2-4e01-b85c-cff568f34cc1": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02431676",
+        "Statement": "anorexic patients are eligible for the primary trial.",
+        "Label": "Contradiction"
+    },
+    "afdafe17-63a8-4fca-b923-a2bb964493d1": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01964924",
+        "Statement": "an adult patient diagnosed with diffuse parenchymal lung disease within the last 3 years would be excluded from the primary trial",
+        "Label": "Entailment"
+    },
+    "a0428861-8e0f-42ca-889f-b2546ae3dbe6": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01310075",
+        "Secondary_id": "NCT02796755",
+        "Statement": "A woman who has had a mastectomy for stage IV BC could still be eligible for the secondary trial or the primary trial.",
+        "Label": "Contradiction"
+    },
+    "e6e3ecde-9d81-41a2-849e-de26c1b9bafc": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02165839",
+        "Secondary_id": "NCT01205503",
+        "Statement": "Candidates for the primary trial and the secondary trial have to meet a baseline performance status, each trial is using a different performance status scoring system.",
+        "Label": "Entailment"
+    },
+    "b29091a1-befa-4edc-9bc9-06263826bfdd": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01783444",
+        "Secondary_id": "NCT03346161",
+        "Statement": " Women with Newly diagnosed locally advanced breast cancer, confirmed as ER+  Considering a mastectomy are eligible for the primary trial and the secondary trial",
+        "Label": "Entailment"
+    },
+    "d85fd7f3-2765-407e-a8a3-49c19d9a4311": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00867217",
+        "Secondary_id": "NCT00800436",
+        "Statement": "Patients diagnosed with breact cancer may be eligible for all study groups in the primary trial and the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "401f0d8c-4f4e-4693-8baa-3ae8664480d3": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01045421",
+        "Secondary_id": "NCT01390818",
+        "Statement": "patients with Histologically or cytologically confirmed metastatic and/or advanced solid tumor in the breast are eligible for phase 1 of the primary trial and for all cohorts of the secondary trial",
+        "Label": "Entailment"
+    },
+    "9727b232-81fc-42cc-bd06-05cc81a7453b": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00553358",
+        "Secondary_id": "NCT01770353",
+        "Statement": "A Patient that has a primary tumour with a radius of 3mm measured by clinical examination and echography, would be eligible for both the primary trial and the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "78aec7ae-20b1-413b-9cb7-9757274ff1aa": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02431676",
+        "Statement": "Morbidly obese patients are eligible for the primary trial.",
+        "Label": "Entailment"
+    },
+    "9c7521a7-87fc-4dc0-8c1e-5720836763e2": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00451555",
+        "Secondary_id": "NCT01781299",
+        "Statement": "Participants must be resistant to AI therapy and mirtazapine to participate in the primary trial, but this is not necessary to be included in the secondary trial",
+        "Label": "Contradiction"
+    },
+    "458419cf-ea6f-4939-ba2e-856b8d89b985": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02404441",
+        "Secondary_id": "NCT01008904",
+        "Statement": "the secondary trial has the same inclusion/exclusion criteria for all participants, whereas the primary trial has 2 sets of inclusion criteria for the different study groups.",
+        "Label": "Entailment"
+    },
+    "a0d99371-52e5-4d30-81d5-ad65feba2e4e": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01351376",
+        "Statement": "Patients with measurable tumors in both breasts are excluded from the primary trial",
+        "Label": "Entailment"
+    },
+    "cc411bc6-900e-4ef3-96ef-09f6e5565a18": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01743560",
+        "Secondary_id": "NCT01730729",
+        "Statement": "children are not eligible for the primary trial however they are not explicitly excluded from the secondary trial",
+        "Label": "Entailment"
+    },
+    "dfea11ab-1a3f-4a76-9fae-96d486f76e10": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00405938",
+        "Statement": "Patients can not have a history of abdominal fistula, gastrointestinal perforation,myocardial infarction (MI), stroke , transient ischemic attacks, intrabdominal abscess or significant psychiatric disorders within the last 6 months if they want to participate in the primary trial",
+        "Label": "Entailment"
+    },
+    "92935ccc-f20d-4e27-9a5f-cb8d47162de6": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02306265",
+        "Secondary_id": "NCT03202472",
+        "Statement": "candidates must undergo a Mammography before being able to participate in the primary trial, this is not required for the secondary trial.",
+        "Label": "Entailment"
+    },
+    "74308ad0-4b9d-4632-9580-5e280dedbc77": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT03092934",
+        "Statement": "patients of any gender can be eligible for both phases of the primary trial if they have evidence of a ER negative breast cancer.",
+        "Label": "Contradiction"
+    },
+    "487dd970-35e7-4a7d-8bb6-e8fa98f574aa": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01129622",
+        "Secondary_id": "NCT01156987",
+        "Statement": "Women suffering from both claustrophobia and osteoporosis or not eligible for either the primary trial or the secondary trial.",
+        "Label": "Entailment"
+    },
+    "9228fe22-ca97-4ca9-ad78-f8dba1ac27b0": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01831089",
+        "Statement": "Patients with a histologically/cytologically confirmed diagnosis of a resectable Non-small cell lung breast cancer or Small cell lung cancer are eligible for the primary trial",
+        "Label": "Contradiction"
+    },
+    "590f240e-7499-432e-aa3c-f54eda69ed46": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00370552",
+        "Statement": "Women of child-bearing potential and Sexually active fertile men are eligible for the primary trial, but they will need to commit to abstinence for the entire study period ",
+        "Label": "Contradiction"
+    },
+    "c8235719-3fd8-43e9-8ba6-d99393220240": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00322374",
+        "Statement": "There are no conditions on mental mental health, bodyweight, age, Karnofsky/ECOG score or previous treatments that need to be met in order to be eligible for the primary trial ",
+        "Label": "Contradiction"
+    },
+    "f4e0551c-44e9-44f1-9a50-c65075a51715": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00076024",
+        "Statement": "There are no conditions on hepatic function for participants of the primary trial",
+        "Label": "Contradiction"
+    },
+    "10292ba1-dd1f-4191-b534-331f39583181": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01023477",
+        "Secondary_id": "NCT00687102",
+        "Statement": "Hypokalemic patients are excluded from the primary trial but may be eligible for the secondary trial",
+        "Label": "Entailment"
+    },
+    "af55082d-0ff1-419f-861f-80dbd05a9ade": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00588640",
+        "Secondary_id": "NCT03125941",
+        "Statement": "the primary trial uses separate inclusion and exclusion criteria for its 2 phases whereas the secondary trial uses separate criteria for healthy and cancer patients.",
+        "Label": "Contradiction"
+    },
+    "3a452f00-375b-48c4-96dd-48986c0c0064": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02441946",
+        "Secondary_id": "NCT00693719",
+        "Statement": "Patients with a breast tumor 0.2-0.8 cm in diameter, with confirmed HR positive and her2 negative status are eligible for both the primary trial and the secondary trial",
+        "Label": "Entailment"
+    },
+    "5b94480e-aa25-491e-ae37-a2b2939eafaf": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00749931",
+        "Secondary_id": "NCT01310075",
+        "Statement": "All patients eligible for the secondary trial are also eligible for the primary trial.",
+        "Label": "Contradiction"
+    },
+    "85d61aaf-5255-4203-9ccf-f9c3da7a352e": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00075764",
+        "Statement": "Patients who's Metastasis cannot be measured, or who's Cancer has not spread to other parts of the body are not eligible for the primary trial",
+        "Label": "Entailment"
+    },
+    "b9b156ee-526a-49ac-aa99-78f02a24dbaf": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02259114",
+        "Secondary_id": "NCT01246973",
+        "Statement": "Patients with NUT midline carcinoma determined by fluorescence In situ hybridization, or inflammatory breast cancer are eligible for both the primary trial and the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "3974c3ec-d3b5-4313-ae4b-4332ee5865ab": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02165839",
+        "Secondary_id": "NCT01205503",
+        "Statement": "Candidates for the primary trial and the secondary trial have to meet a baseline performance status, for the primary trial the baseline is a Karnofsky score >70, and for the secondary trial the baseline is a Karnofsky score >55",
+        "Label": "Contradiction"
+    },
+    "b358fb9c-1152-4e1a-88eb-743e965d58fc": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00284180",
+        "Statement": "Patients with a history of severe anaphylactic reactions to trastuzumab cannot take part in the primary trial.",
+        "Label": "Entailment"
+    },
+    "24e7fb4c-e279-4b61-8c7f-6dc6a09e8d55": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00999921",
+        "Secondary_id": "NCT00569166",
+        "Statement": "Patients with malignant ductal carcinoma in situ and uncontrolled hypertension are eligible for the secondary trial but excluded from the primary trial.",
+        "Label": "Contradiction"
+    },
+    "cd250e97-c2b4-48cd-bcbe-55ea06fa9662": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01310075",
+        "Secondary_id": "NCT02796755",
+        "Statement": "A woman who has had a mastectomy could still be eligible for the secondary trial or the primary trial.",
+        "Label": "Entailment"
+    },
+    "25551d37-108d-497a-8e75-825d8d707190": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01351376",
+        "Statement": "Patients with measurable bilateral breast cancer are eligible for the primary trial",
+        "Label": "Contradiction"
+    },
+    "5261c924-d9ef-43ed-8f2a-6c5b1552cc62": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00370552",
+        "Statement": "Women of child-bearing potential and Sexually active fertile men are eligible for the primary trial, but they will have to meet some additional requirements.",
+        "Label": "Entailment"
+    },
+    "b5e896cf-e971-4fac-8dc6-a19e2c2d0a72": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00076024",
+        "Statement": "There are no conditions on Life expectancy, pregnancy or age for participants of the primary trial",
+        "Label": "Entailment"
+    },
+    "adfed785-8da6-4bf4-836f-2dfadf0510b6": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00588640",
+        "Secondary_id": "NCT03125941",
+        "Statement": "the primary trial uses separate inclusion and exclusion criteria for its 2 phases whereas the secondary trial uses the same criteria for all participants.",
+        "Label": "Entailment"
+    },
+    "bf3034ec-679a-42d1-9d24-69b51c602233": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01439282",
+        "Secondary_id": "NCT01783444",
+        "Statement": "Gender is not a determining factor for eligibility in the primary trial or the secondary trial",
+        "Label": "Contradiction"
+    },
+    "4adbcbcc-ae43-46af-a072-815d1e788f29": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01037790",
+        "Statement": "patients diagnosed with tumors positive for CCND1 amplification, CDK4/6 mutation, CCND2 amplification are excluded from the primary trial.",
+        "Label": "Contradiction"
+    },
+    "574106ef-1b9c-4540-a89f-5100a9bbe798": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01772004",
+        "Statement": "African-american patients can participate in the primary trial, but they must reside in the state of texas for the duration of the study.",
+        "Label": "Contradiction"
+    },
+    "7e271bbd-26e8-422e-be5c-54d294da815a": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01194440",
+        "Statement": "Patients diagnosed stage 4 invasive carcinoma of the breast that is estrogen and/or progesterone receptor positive, and are considering AI therapy are eligible for the primary trial.",
+        "Label": "Contradiction"
+    },
+    "0c03c804-4144-4d84-b740-8f6040f15acc": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01250379",
+        "Secondary_id": "NCT02988986",
+        "Statement": "A 20 year old female patient with a Newly diagnosed ER-positive, HER2-negative breast cancer, could be eligible for the secondary trial and the primary trial",
+        "Label": "Entailment"
+    },
+    "09879638-e324-4f5d-a45e-f62f7e06f301": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01743560",
+        "Secondary_id": "NCT01730729",
+        "Statement": "children and adolescents are not eligible for the primary trial, as they do not meet the height requirement, however they are not explicitly excluded from the secondary trial",
+        "Label": "Contradiction"
+    },
+    "ee2fe2ab-dc6f-434e-b0dd-1deee5fb3d31": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00451555",
+        "Secondary_id": "NCT01781299",
+        "Statement": "Participants must be resistant to AI therapy to participate in the primary trial, but this is not necessary to be included in the secondary trial",
+        "Label": "Entailment"
+    },
+    "7d818afc-93da-4098-a0f0-558bc0095687": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01537029",
+        "Secondary_id": "NCT01306032",
+        "Statement": "Female cancer patients over the age of 18 can participate in the primary trial, regardless of race, ethnic origin or cancer type, however for the secondary trial, they must have BRCA+ breast cancer.",
+        "Label": "Entailment"
+    },
+    "e63ac45b-c34b-4007-820a-30202893fc6f": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01037790",
+        "Statement": "There are a limited number of available places in the primary trial for patients diagnosed with Metastatic colorectal cancer that harbors the Kras or BRAF mutation .",
+        "Label": "Entailment"
+    },
+    "970f06b2-0935-4cde-a070-ddd7adb8ed5e": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01439282",
+        "Secondary_id": "NCT01783444",
+        "Statement": "Gender is not a determining factor for eligibility in the primary trial, but only female patients are eligible for the secondary trial",
+        "Label": "Entailment"
+    },
+    "cf4c4c98-b8b0-4ab8-85a8-1269da4d9fd8": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00432562",
+        "Secondary_id": "NCT00122369",
+        "Statement": "There are 0 shared inclusion/exclusion criteria between the secondary trial and the primary trial.",
+        "Label": "Contradiction"
+    },
+    "56e9308b-f718-4831-8e56-4b18982e4a2c": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01178411",
+        "Secondary_id": "NCT01772004",
+        "Statement": "the nationality, ethnicity, weight or gender of a patient will not affect their eligibility for the primary trial or the secondary trial",
+        "Label": "Entailment"
+    },
+    "c2d6b8ba-8238-49b7-b9a1-de2ffdabe324": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT04080297",
+        "Secondary_id": "NCT00929240",
+        "Statement": "Any Patients currently taking part in the secondary trial will also be eligible for the primary trial as they have the same inclusion criteria",
+        "Label": "Contradiction"
+    },
+    "d9e7c0cc-0850-4a8e-b389-092dfdc623fc": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00978250",
+        "Statement": "Patients with histologically documented metastatic SCBC are excluded from the primary trial.",
+        "Label": "Entailment"
+    },
+    "7814620b-23de-463b-8fd1-efdf51ce26b3": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01964924",
+        "Statement": "an adult patient diagnosed with ILD/DPLD within the last 3 years, with a life expectancy of 6 months would be eligible for the primary trial",
+        "Label": "Contradiction"
+    },
+    "ae548af6-b401-4dac-9824-50b2a566e7bd": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00122369",
+        "Secondary_id": "NCT03069313",
+        "Statement": "18 years olds are excluded from the secondary trial, but the primary trial does not specify an age range for participation.",
+        "Label": "Contradiction"
+    },
+    "291150cd-0d45-46c7-9a44-d781098bc3eb": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01537029",
+        "Secondary_id": "NCT01306032",
+        "Statement": "Female cancer patients over the age of 18 can participate in the primary trial, regardless of race or ethnic origin or cancer type, however for the secondary trial, they must have Her2/neu+ breast cancer.",
+        "Label": "Contradiction"
+    },
+    "403ad287-6e25-4db0-a66b-fe4a7f15a983": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00553358",
+        "Secondary_id": "NCT01770353",
+        "Statement": "A Patient that has a primary tumour with a diameter of 33mm measured by clinical examination and echography, would be eligible for both the primary trial and the secondary trial.",
+        "Label": "Entailment"
+    },
+    "c6ca9f93-1abb-4c01-bdfb-aa17c5028ec8": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01250379",
+        "Secondary_id": "NCT02988986",
+        "Statement": "a young girl with a Newly diagnosed PR-positive, HER2 positive breast cancer, could be eligible for the secondary trial and the primary trial",
+        "Label": "Contradiction"
+    },
+    "c63468c0-324f-4528-b83f-a588ccf7b680": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02441946",
+        "Secondary_id": "NCT00693719",
+        "Statement": "Patients with a TNBC tumor of 100mm in diameter, are eligible for both the primary trial and the secondary trial",
+        "Label": "Contradiction"
+    },
+    "4714a31c-c7ca-49e2-aa71-6665b65ed04f": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02891681",
+        "Secondary_id": "NCT00321048",
+        "Statement": "Morbidly obese patients can be eligible for the primary trial and the secondary trial.",
+        "Label": "Entailment"
+    },
+    "3f15d923-bf66-4188-8714-c9ae4921de1f": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00749931",
+        "Secondary_id": "NCT01310075",
+        "Statement": "the secondary trial and the primary trial share at least one inclusion criteria.",
+        "Label": "Entailment"
+    },
+    "57656a6d-8e1c-4cb8-b80d-605174d0577c": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02761642",
+        "Secondary_id": "NCT02640053",
+        "Statement": "Any cancer patient diagnosed with either fibromyalgia, thalasemic syndromes or anemia cannot be eligible for both the primary trial and the secondary trial.",
+        "Label": "Entailment"
+    },
+    "8b98421d-1cec-41bd-b25e-2e73c362193a": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01178411",
+        "Secondary_id": "NCT01772004",
+        "Statement": "the nationality, ethnicity, psychiatric condition or gender of a patient will not affect their eligibility for the primary trial or the secondary trial",
+        "Label": "Contradiction"
+    },
+    "62441471-f329-4540-9d4e-dc34c4d08d59": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00971945",
+        "Secondary_id": "NCT00418028",
+        "Statement": "the secondary trial  candidates must be Completely disabled to participate, whereas this is not required to be accepted into the primary trial",
+        "Label": "Contradiction"
+    },
+    "c3f4b547-8d11-42ba-800c-7ccbe1283741": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01421472",
+        "Statement": "Breast cancer patients with estrogen negative, progesterone negative and HER2- tumors are eligible for all cohorts of the primary trial",
+        "Label": "Contradiction"
+    },
+    "451c8e9e-03c1-4b7a-9b84-5129c5623f1b": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00313170",
+        "Statement": "candidates for the primary trial must have breast cancer and require hormonal treatment.",
+        "Label": "Entailment"
+    },
+    "b3f59657-9278-41be-b740-433b0d38fdd5": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00075764",
+        "Statement": "Patients with TX NX MX, T0 NX M0 or T1 N1 M1 tumors are eligible for the primary trial",
+        "Label": "Contradiction"
+    },
+    "bcc9a793-5002-4cd9-a5b7-af5a1ceca35a": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00313170",
+        "Statement": "candidates for the primary trial must have colon cancer and be unresponsive to previous hormonal treatments.",
+        "Label": "Contradiction"
+    },
+    "64441aad-b959-41bb-aa81-2f594d00b70c": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02306265",
+        "Secondary_id": "NCT03202472",
+        "Statement": "candidates must undergo a Mammography before being able to participate in the primary trial, whereas for the secondary trial patients must first have a CT scan and blood tests.",
+        "Label": "Contradiction"
+    },
+    "b3679900-ab99-4a84-83e0-fc1122a43beb": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02961790",
+        "Statement": "Any patients that have undergone Antineoplastic chemotherapy, Androgens, Estrogens or Progestogens therapy in the month before study entry are excluded from the primary trial.",
+        "Label": "Entailment"
+    },
+    "15577bb6-3b4d-4373-ae58-eb0bf0c34954": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01989546",
+        "Secondary_id": "NCT01171924",
+        "Statement": "warfarin based treatments are prohibited for the primary trial candidates, however they may still be eligible for the secondary trial.",
+        "Label": "Entailment"
+    },
+    "315f4573-d5b1-4cbc-9efb-74c27a98dc6d": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00321464",
+        "Secondary_id": "NCT01963481",
+        "Statement": "Patients with histologically confirmed stage 4 breast adenocarcinoma that is either ER positive, PR positive or HER2/neu negative are eligible for both the secondary trial and the primary trial.",
+        "Label": "Entailment"
+    },
+    "9cd25233-1d76-4d0d-a571-ce8fee279757": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02891681",
+        "Secondary_id": "NCT00321048",
+        "Statement": "Morbidly obese and pregnant patients can be eligible for the primary trial and the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "438a978d-ac7e-4260-bb24-d2129cb3dfc6": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01963481",
+        "Secondary_id": "NCT01011218",
+        "Statement": "Patients suffering from severe insomnia and schizophrenia are excluded from both the primary trial and the secondary trial",
+        "Label": "Entailment"
+    },
+    "7dd6b446-5585-4660-8bc7-e9811af66268": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01554371",
+        "Secondary_id": "NCT02550795",
+        "Statement": "Any patients that is currently a smoker cannot participate in either the primary trial or the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "d921df56-8a29-45a9-bb0b-66ba14dbc193": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02961790",
+        "Statement": "Any patients that have undergone Antineoplastic chemotherapy, Androgens, Estrogens or Progestogens therapy in the last 2 years before study entry are excluded from the primary trial.",
+        "Label": "Contradiction"
+    },
+    "feca7444-9108-45e9-b722-4f0a207376c7": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00867217",
+        "Secondary_id": "NCT00800436",
+        "Statement": "Patients with a Vitamin D deficiency are excluded from the primary trial, but may be eligible for the secondary trial.",
+        "Label": "Entailment"
+    },
+    "2ce0822a-fcf8-4010-950c-0d3a8dc2cb00": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01205503",
+        "Secondary_id": "NCT01286168",
+        "Statement": "Any patients with Documented allergy to cephalosporin, trimethoprim/sulfamethoxazole, levofloxacin or celecoxib will not be eligible for both the secondary trial and the primary trial.",
+        "Label": "Entailment"
+    },
+    "dd27a6e7-3b83-4a84-bc40-5ba39617a1c1": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00978250",
+        "Statement": "Patients with histologically documented metastatic or unresectable SCBC are excluded from the primary trial, unless they are positive for either ER or PR or both.",
+        "Label": "Contradiction"
+    },
+    "fd0b22b0-c86d-4460-bf53-310901404ef5": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00429299",
+        "Statement": "All the primary trial candidates must have a HER2 positive tumor confirmed by either positive FISH or IHC 3+",
+        "Label": "Entailment"
+    },
+    "1d66459b-4624-4ea0-9cda-992c4146a454": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00800436",
+        "Secondary_id": "NCT00702949",
+        "Statement": "Prior treatment with gabapentin or pregabalin will result in exclusion from the secondary trial, but not from the primary trial.",
+        "Label": "Entailment"
+    },
+    "f706897d-d54e-4449-8bc7-da0bd6fbad01": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00146172",
+        "Secondary_id": "NCT00262834",
+        "Statement": "candidates with an ECOG score of 1 are eligible for both the primary trial and the secondary trial",
+        "Label": "Entailment"
+    },
+    "75c55f70-aa52-4794-aae7-3a355f1a76e9": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01421472",
+        "Statement": "Breast cancer patients with estrogen negative, progesterone negative and HER2- tumors are eligible for the primary trial",
+        "Label": "Entailment"
+    },
+    "76d498ce-037c-4f7e-8cbb-450d8f6019ec": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT03092934",
+        "Statement": "patients of any gender can be eligible for both phases of the primary trial if they have evidence of a solid tumor that is locally advanced and/or metastatic.",
+        "Label": "Entailment"
+    },
+    "a4a2c0ba-3fa9-4fad-9258-7e517ae85e25": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02312934",
+        "Secondary_id": "NCT00293384",
+        "Statement": "alcoholic patients are excluded from the primary trial but may be eligible for the secondary trial if they drink less than 5 alcoholic drinks a day.",
+        "Label": "Contradiction"
+    },
+    "e8e3fedb-075d-440e-bf2e-baec76f96cca": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01831089",
+        "Statement": "Patients with a histologically/cytologically confirmed diagnosis of a Non-small cell lung cancer or Small cell lung cancer are eligible for the primary trial",
+        "Label": "Entailment"
+    },
+    "8b50bdc1-1722-403b-a854-adeaacd02acb": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00284180",
+        "Statement": "Patients with a history of severe anaphylactic reactions to herceptin, or a history of non-response to herceptin treamtents are eligible for the primary trial.",
+        "Label": "Contradiction"
+    }
+}

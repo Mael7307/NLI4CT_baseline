@@ -1,0 +1,787 @@
+{
+    "84915e35-a8c9-4d26-ad09-4b1df48a6df8": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00956813",
+        "Secondary_id": "NCT00320541",
+        "Statement": "the secondary trial and the primary trial results contain completely different outcome measures ",
+        "Label": "Entailment"
+    },
+    "9c2ca035-d531-4d44-876e-6ed9f2d3f76b": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02038218",
+        "Secondary_id": "NCT02187783",
+        "Statement": "the secondary trial and the primary trial use different units of measure in their results.",
+        "Label": "Entailment"
+    },
+    "7238ddd4-eade-4b88-8933-0c3df5be9875": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00756496",
+        "Secondary_id": "NCT00825682",
+        "Statement": "There were no significant differences in the results from the groups in the primary trial, and the Reflexology Group and control group in the secondary trial produced identical results.",
+        "Label": "Contradiction"
+    },
+    "aeddc485-09b1-4ddc-9a45-3a8bf0bec2c3": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02988986",
+        "Statement": "Over 6 weeks of TAK-228 Plus Tamoxifen treatment patients in the primary trial experienced a 5% reduction in the Percentage of cells with Ki67 expression  ",
+        "Label": "Entailment"
+    },
+    "204d5293-d6e5-452a-8961-3b76d6be35c9": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01766102",
+        "Secondary_id": "NCT01664091",
+        "Statement": "Arm 2 of the primary trial had higher Operative Time than Arm 1, therefore Intra-operative Mammography performed better than the Standard Mammography in this regard. In the secondary trial there is no control group against which we can compare.",
+        "Label": "Entailment"
+    },
+    "21a5f296-5b3c-4860-be64-77ffb8f76501": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00878709",
+        "Statement": "Both cohorts of the primary trial contained the same number of participants",
+        "Label": "Entailment"
+    },
+    "d35e9b96-20fc-4778-a7db-e87c861c4938": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01008150",
+        "Statement": "More than 1/3 patients in both cohorts of the primary trial experienced Pathologic Complete Response in Breast and Axillary Lymph Nodes after approximately 7 months of the study",
+        "Label": "Entailment"
+    },
+    "25b01c06-612c-4cfb-b30b-50ebe4d98750": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01766102",
+        "Secondary_id": "NCT01664091",
+        "Statement": "Arm 2 of the primary trial had higher Operative Time than Arm 1, therefore the control group performed better than the test group in this regard. In the secondary trial there is no control group against which we can compare.",
+        "Label": "Contradiction"
+    },
+    "388cc99c-4cb3-4ff9-9496-07f4a6bf6ac7": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01706081",
+        "Statement": "Acupuncture Patients in the primary trial saw better changes in their Lymphedema than patients administered with testosterone Cream.",
+        "Label": "Contradiction"
+    },
+    "41a0138d-7084-40d9-99ae-24db9e84acce": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT03403712",
+        "Secondary_id": "NCT00792077",
+        "Statement": "the primary trial is evaluating the number of patients who suffer treatment related adverse events, whereas the secondary trial measures the Median sleep time of its patients in minutes.",
+        "Label": "Entailment"
+    },
+    "439b1eca-f583-4a2b-bd8e-0baae97b4c15": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00708019",
+        "Statement": "Several of the patients in the primary trial experienced the no pain whatsoever during the 10 weeks of the study.",
+        "Label": "Contradiction"
+    },
+    "f53c5344-36d7-459f-9f84-300e19decced": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00248547",
+        "Statement": "All Patients receiving the placebo intervention in the primary trial experienced emesis ",
+        "Label": "Contradiction"
+    },
+    "e6bbed17-0fdf-4008-b56e-4d901490ce1a": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00513292",
+        "Secondary_id": "NCT00148668",
+        "Statement": "the primary trial and the secondary trial both use pCR as their outcome measurement, there is a small difference in results between the two cohorts of the primary trial, whereas in the secondary trial, Arm 2 had much better results than arm 1.",
+        "Label": "Entailment"
+    },
+    "f1f9d4b4-4877-49ad-a2e2-f53efbe40ef9": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00372424",
+        "Statement": "All but one of the patients treated with Sunitinib + Docetaxel + Trastuzumab in the primary trial suffered a Treatment-Emergent adverse event, and less than half the patients suffered serious Treatment-Emergent Adverse Events.",
+        "Label": "Entailment"
+    },
+    "8393ad3d-8521-4316-b69e-64910d8af5e7": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00896454",
+        "Secondary_id": "NCT00588640",
+        "Statement": "the secondary trial and the primary trial report results using the same Unit of Measure.",
+        "Label": "Contradiction"
+    },
+    "04178e95-d808-4a96-ab85-61eb52c17720": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00372424",
+        "Statement": "a total of 35 patients treated with Sunitinib + Docetaxel + Trastuzumab in the primary trial suffered a Treatment-Emergent adverse event.",
+        "Label": "Contradiction"
+    },
+    "18d3b58f-42ca-4178-adb6-4a5f0c9fafde": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00708019",
+        "Statement": "None of the patients in the primary trial experienced the worst pain imaginable for 10 weeks.",
+        "Label": "Entailment"
+    },
+    "e52afcaa-e5d8-4a1f-ae39-8572a64b0aee": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00558272",
+        "Statement": "The AZD0530 175 mg group of the primary trial experienced a more significant Percentage Change in betaCTX at week 4 than the Zoledronic Acid 4 mg group.",
+        "Label": "Entailment"
+    },
+    "96042d49-2f5a-44af-8899-2d5ba24c0f6f": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00429182",
+        "Statement": "less than 10% of the primary trial participants had a Reduction in circulating tumor cells Following months of High-dose Chemotherapy With Purged Autologous Stem Cell Products",
+        "Label": "Contradiction"
+    },
+    "ea3a7d64-b464-4633-a198-794a4a45b201": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01614210",
+        "Statement": "Results from the primary trial show that tamoxifen 20 mg po daily for 7 days prior to surgery and for 14 days after Breast cancer surgery reduces Ki67 Expression in Tumors by 40% on average.",
+        "Label": "Entailment"
+    },
+    "3c9a4b79-1f51-477a-a5b6-b69f76aeedf8": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02413008",
+        "Secondary_id": "NCT02041429",
+        "Statement": "the secondary trial and the primary trial use the same outcome measurement; the proportion of patients with pCR Within the Breast, Defined as no Evidence of Invasive Tumor Remaining in the Breast at Surgery Following Completion of Chemotherapy",
+        "Label": "Contradiction"
+    },
+    "7eeeed55-fe37-47ae-be62-e50557ccaed1": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00319748",
+        "Secondary_id": "NCT01194440",
+        "Statement": "Neither the secondary trial or the primary trial measure the Change in Ki67 Expression in Tumors.",
+        "Label": "Entailment"
+    },
+    "cbc96b9d-b39c-4fbe-b8a7-e7df7490881b": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02286843",
+        "Statement": "13% of the primary trial participants with PR+ Primary Breast Cancer treated with HER2-targeted PET/CT. 89Zr-trastuzumab developed HER2+ Metastases",
+        "Label": "Contradiction"
+    },
+    "2a05996c-d5fb-4aa8-9654-fb1d27180888": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02104830",
+        "Secondary_id": "NCT01569087",
+        "Statement": "Patients in cohort 2 of the primary trial suffered from neutropenia significantly less often than patients in cohort 1 of the secondary trial, who were receiving far lower doses of Empegfilgrastim.",
+        "Label": "Contradiction"
+    },
+    "80a26581-a95c-4c22-864f-93425b1fc165": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02273206",
+        "Statement": "The majority of patients in cohort 1 of the primary trial were up to date for their screenings after the intervention, regardless of cancer type.",
+        "Label": "Entailment"
+    },
+    "62384871-8eb2-414b-8cc9-e756a188e19e": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02041429",
+        "Secondary_id": "NCT00911898",
+        "Statement": "the primary trial and the secondary trial report on the MTD of different interventions, with the MTD of MM-111 for patients in the secondary trial being 15 mg per day",
+        "Label": "Contradiction"
+    },
+    "0a266c52-2a4e-4aed-a04c-85c148f2cd41": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00929240",
+        "Statement": "the Bevacizumab cohort of the primary trial produced better results than the Bevacizumab + Capecitabine cohort.",
+        "Label": "Contradiction"
+    },
+    "4e5a04a1-2513-472b-b2a7-891d68a3b549": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00759785",
+        "Statement": "11% more Participants in the ER-positive Luminal B group of the primary trial Demonstrated a Decrease in the Growth Factor Signature than in the Triple Negative group",
+        "Label": "Entailment"
+    },
+    "3ab9a40f-bbd8-43ed-a468-7fdbe3d9ce19": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00656019",
+        "Statement": "None of the primary trial patients in cohorts 1 or 2 showed discernible pattern for expression of the set of 40 evaluated genes",
+        "Label": "Entailment"
+    },
+    "df39cd99-7291-4749-a7d5-ff760b7c3fc2": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01383174",
+        "Secondary_id": "NCT00749931",
+        "Statement": " cohort 2 of the secondary trial produced better results than cohort 2 of the primary trial.",
+        "Label": "Contradiction"
+    },
+    "54a1eab3-1e8e-4c1c-a30f-f4d677a84c71": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01869192",
+        "Secondary_id": "NCT00321464",
+        "Statement": "The results from the primary trial indicate that the Arm A intervention better overall response rate than the placebo arm, additionally, in the secondary trial the Denosumab cohort had a better Time to First On-Study SRE than the Zoledronic Acid cohort.",
+        "Label": "Contradiction"
+    },
+    "7d60c7dd-fb79-4e95-a662-32de2036683f": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00182767",
+        "Statement": "In total two patients from the primary trial suffered an Incidence of Dose-limiting Toxicity, both from cohort 2.",
+        "Label": "Contradiction"
+    },
+    "c43d1ac6-f3d2-44f6-870d-fb91f3365c5b": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00819182",
+        "Statement": "the primary trial patients in The paced respiration intervention group suffered more Treatment Emergent Adverse Events and Serious Treatment Emergent Adverse Events on average than patients in the The fast, shallow respiration group.",
+        "Label": "Contradiction"
+    },
+    "95cb9c0a-0725-4108-aebb-f114f77b577c": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00429182",
+        "Statement": "less than half of the primary trial participants had a Reduction in circulating tumor cells Following High-dose Chemotherapy With Purged Autologous Stem Cell Products",
+        "Label": "Entailment"
+    },
+    "b20cbb69-8909-4a66-b47c-27192604d187": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01869192",
+        "Secondary_id": "NCT00321464",
+        "Statement": "The results from the primary trial indicate that the Arm A intervention provided the best overall response rate, additionally, in the secondary trial the Denosumab cohort had a worse Time to First On-Study SRE than the Zoledronic Acid cohort.",
+        "Label": "Entailment"
+    },
+    "5887ed1d-aa43-4a18-be3a-9141b675d5af": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01156987",
+        "Secondary_id": "NCT02234479",
+        "Statement": "Not a single one of the participants in group 1 of the primary trial were found to have lesions, and more than 95% of particpants in group 1 of the secondary trial had radiation dermatitis and hyperpigmentation.",
+        "Label": "Contradiction"
+    },
+    "fa6115aa-a765-4d03-9fd0-61c97d5e282f": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00659373",
+        "Statement": "all participants in the primary trial suffered a deterioration in cognitive function, particularly those in the Ovarian Function Suppression group",
+        "Label": "Contradiction"
+    },
+    "5a916856-536f-444d-87e7-1b2c032c0656": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00467844",
+        "Statement": "at least one patient treated with GTx-024 1mg in the primary trial gained over 10 kilos of Lean body Mass.",
+        "Label": "Entailment"
+    },
+    "26145056-fdfd-4f2d-909e-be84fc53ede8": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00248547",
+        "Statement": "Patients receiving the placebo intervention in the primary trial were twice as likely to experience emesis as patients receiving Aprepitant.",
+        "Label": "Entailment"
+    },
+    "3cae8899-5172-460e-8ff1-e6e1c8a59f0b": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00843167",
+        "Secondary_id": "NCT02239601",
+        "Statement": "the secondary trial uses pain as a measure of effectiveness for Physical Therapy, whereas the primary trial studies the effect of Sulforaphane Supplements on Isothiocyanate concentration in Urine.",
+        "Label": "Entailment"
+    },
+    "251e979f-a7ba-4dea-afb7-01b9501ec7cf": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01806259",
+        "Statement": "96 participants from the Ketorolac 30 mg group of the primary trial experienced Recurrence-free Survival compared to the 67 from the NaCl 0.9% 3mL group",
+        "Label": "Contradiction"
+    },
+    "8101ccf6-e6f4-43ba-b22f-9a13e2ddd279": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00320541",
+        "Statement": "The the primary trial Paclitaxel Plus Bevacizumab Plus Gemcitabine group had a better ORR than the Paclitaxel Plus Bevacizumab group and had more participants in it",
+        "Label": "Contradiction"
+    },
+    "86ed4db6-24fe-4a88-ba9b-6be3f98e0525": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00632489",
+        "Statement": "The LBH589 With Capecitabine cohort of the primary trial produced worse results than the LBH589 and Lapatinib cohort",
+        "Label": "Contradiction"
+    },
+    "1cdbbd44-21df-4279-9e3c-ff501f1361ec": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02041429",
+        "Secondary_id": "NCT00911898",
+        "Statement": "the primary trial and the secondary trial report on the MTD of different interventions",
+        "Label": "Entailment"
+    },
+    "577c7755-64ae-4b78-bbe3-627cef6e3ece": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01008150",
+        "Statement": "More than 42 patients in both cohorts of the primary trial experienced Pathologic Complete Response in Breast and Axillary Lymph Nodes after approximately 7 months after the surgery",
+        "Label": "Contradiction"
+    },
+    "5b13bca4-0354-4579-a868-d007bef0dbe1": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00878709",
+        "Statement": "The Neratinib group of the primary trial had a lower rate of iDFS than the placebo group",
+        "Label": "Contradiction"
+    },
+    "a793df3f-fa04-4d48-a2c6-006589d52e84": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00659373",
+        "Statement": "On average both cohorts of the primary trial suffered a deterioration in cognitive function, however this was not the case for all patients",
+        "Label": "Entailment"
+    },
+    "75961bc5-20b9-4161-83e0-a59429ce18e9": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00293384",
+        "Statement": "Over 50% of patients in cohort 1 of the primary trial suffered Acute Vomiting after treatment with Aprepitant, Dexamethasone, Cytoxan and Kytril",
+        "Label": "Entailment"
+    },
+    "22384b11-eb42-42da-86b3-dfed559ebb77": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01106898",
+        "Statement": "Only 2 patients in the primary trial did not have Recurrence-free Survival",
+        "Label": "Entailment"
+    },
+    "a911fcee-0621-4f06-a511-b8323ab8440c": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00828516",
+        "Secondary_id": "NCT00843167",
+        "Statement": "Neither the secondary trial or the primary trial use the Number of Participants With Treatment-emergent Aes as the outcome measurement for their studies.",
+        "Label": "Entailment"
+    },
+    "0d7d2408-c51f-4b3a-a47f-6f0ee8dedacc": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00418028",
+        "Secondary_id": "NCT00662025",
+        "Statement": "the primary trial reports the Time to Progression in months for a total of 156 patients across the two cohorts, on the other hand, the secondary trial reports the number of patients that experience Objective Response ",
+        "Label": "Entailment"
+    },
+    "017ff04d-5509-4f54-863c-10201351e15d": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00656019",
+        "Statement": "several patients with Normal Vitamin D Levels in the primary trial showed discernible pattern for expression of the set of 40 evaluated genes.",
+        "Label": "Contradiction"
+    },
+    "523d79a3-ee67-4b2a-a1cb-20ed4ed45dc6": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00759785",
+        "Statement": "49.2% more Participants in the dalotuzumab 20 mg/kg group of the primary trial Demonstrated a Decrease in the Growth Factor Signature than in the Triple Negative group",
+        "Label": "Contradiction"
+    },
+    "0f31bc6a-a228-49c2-afff-4177ef850272": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00030823",
+        "Secondary_id": "NCT00270894",
+        "Statement": "There were more participants in the primary trial than in the secondary trial",
+        "Label": "Contradiction"
+    },
+    "59a0bff2-c254-45f1-a6ae-2d847777db94": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00418028",
+        "Secondary_id": "NCT00662025",
+        "Statement": "the primary trial reports the Time to Progression in days for a total of 156 patients across the two cohorts, on the other hand, the secondary trial reports the percentage of patients that experience Objective Response ",
+        "Label": "Contradiction"
+    },
+    "bd5d8368-5c1d-41b8-9fb3-f174da18744f": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00467844",
+        "Statement": "All patients treated with GTx-024 1mg in the primary trial gained Lean body Mass over a 4 month period",
+        "Label": "Contradiction"
+    },
+    "d1a7cbaa-161a-4675-b8b7-67ae364be364": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00828516",
+        "Secondary_id": "NCT00843167",
+        "Statement": "Neither the secondary trial or the primary trial use change in MYMOP score as the outcome measurement for their studies.",
+        "Label": "Contradiction"
+    },
+    "21c021d2-764d-4028-b945-2aeb525b9888": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00513292",
+        "Secondary_id": "NCT00148668",
+        "Statement": "the primary trial and the secondary trial both use pCR as their outcome measurement, there is a small difference in results between the two cohorts of the primary trial, whereas in the secondary trial, Arm 2 had worse results than arm 1, as a higher percentage of arm 2 patients experienced pCR.",
+        "Label": "Contradiction"
+    },
+    "320ec115-31c3-47bf-a819-93d514b91eb3": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01156987",
+        "Secondary_id": "NCT02234479",
+        "Statement": "None of the participants in group 1 of the primary trial were found to have lesions, and more than 90% of particpants in group 1 of the secondary trial had radiation dermatitis and hyperpigmentation.",
+        "Label": "Entailment"
+    },
+    "d54a3e9d-5602-4cc3-934e-717f1da39792": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00538850",
+        "Secondary_id": "NCT00305695",
+        "Statement": "The the primary trial results report changes in Pain intensity and the secondary trial measures the change from baseline to 9 months in bone mineral density (BMD) of the lumbar spine",
+        "Label": "Entailment"
+    },
+    "137bb76f-a37e-4339-af7e-f0c647a01baa": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00929240",
+        "Statement": "the Bevacizumab cohort of the primary trial had a higher incidence of Disease Progression or Death than the Bevacizumab + Capecitabine cohort.",
+        "Label": "Entailment"
+    },
+    "b87ab44e-6cbe-4567-98ff-bd820aa7edeb": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02286843",
+        "Statement": "13% of the primary trial participants with HER2- Primary Breast Cancer treated with HER2-targeted PET/CT. 89Zr-trastuzumab developed Imagable HER2+ Metastases",
+        "Label": "Entailment"
+    },
+    "c08aa0d8-5505-438c-b53a-934bd2ee570d": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00632489",
+        "Statement": "the primary trial does not report any results for the LBH589 and Lapatinib cohort.",
+        "Label": "Entailment"
+    },
+    "e04edb9d-dc0e-44c4-abb9-3260b400e265": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01376349",
+        "Secondary_id": "NCT01048099",
+        "Statement": "Both the secondary trial and the primary trial use Objective cognitive function scores measured with CogState as their units of measure.",
+        "Label": "Contradiction"
+    },
+    "6af06b3f-dbbc-4679-a4a3-fe4b3757fdc0": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00475085",
+        "Statement": "There are 7 more participants in cohort 2 of the primary trial than in cohort 1",
+        "Label": "Entailment"
+    },
+    "d0168033-35eb-4032-b6e5-f81d9d3a9f7a": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02640053",
+        "Statement": "Patients in the primary trial that didn\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5t receive topical cryotherapy had worse symptoms than patients that did receive topical cryotherapy.",
+        "Label": "Entailment"
+    },
+    "3d100b36-5765-4953-b072-b06f38b6958c": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00320541",
+        "Statement": "The the primary trial Paclitaxel Plus Bevacizumab Plus Gemcitabine group had a better ORR than the Paclitaxel Plus Bevacizumab group",
+        "Label": "Entailment"
+    },
+    "f0ca21dc-bf98-4c8b-b08e-d0821905846a": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01706081",
+        "Statement": "Acupuncture Patients in the primary trial saw better changes in their Lymphedema than patients on the waiting list.",
+        "Label": "Entailment"
+    },
+    "8ef6757e-e789-4a70-9cf3-e2e8050c9f15": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00791037",
+        "Secondary_id": "NCT01702571",
+        "Statement": "the primary trial and the secondary trial evaluate different patient characteristics in their results.",
+        "Label": "Entailment"
+    },
+    "a8932849-e870-422e-a81a-1b43d9622082": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01806259",
+        "Statement": "the Ketorolac 30 mg group of the primary trial had a -6.4% Recurrence-free Survival compared to the NaCl 0.9% 3mL group",
+        "Label": "Entailment"
+    },
+    "06a1adac-dee0-4d9b-83c6-0996391e40d0": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00030823",
+        "Statement": "13 participants in the primary trial were treated with the Globo-H-GM2-Lewis-y-MUC1-32(aa)-sTn(c)-TF(c)-Tn(c)-KLH conjugate vaccine ",
+        "Label": "Entailment"
+    },
+    "47512f16-9809-4150-a101-1fb7256c5bf3": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00843167",
+        "Secondary_id": "NCT02239601",
+        "Statement": "the secondary trial uses muscle gains as a measure of effectiveness for Physical Therapy, whereas the primary trial studies the effect of Sulforaphane Supplements on Isothiocyanate concentration in Urine.",
+        "Label": "Contradiction"
+    },
+    "05fbffcf-c1a0-40f9-95dd-8e9010005773": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00896454",
+        "Secondary_id": "NCT00588640",
+        "Statement": "the secondary trial and the primary trial report results from one patient cohort.",
+        "Label": "Entailment"
+    },
+    "1defe036-8290-4a01-bec7-f75305d1e88e": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01376349",
+        "Secondary_id": "NCT01048099",
+        "Statement": "Neither the secondary trial or the primary trial use cm, Number of Participants or a unit of time as their units of measure.",
+        "Label": "Entailment"
+    },
+    "1fe68175-6ac4-4439-818f-94758e6bd306": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02640053",
+        "Statement": "Patients in the primary trial that didn\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5t receive paclitaxel infusions had worse symptoms than patients that did receive paclitaxel infusions.",
+        "Label": "Contradiction"
+    },
+    "c389c3cc-2e76-4219-996d-3aa5a925fec7": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02038218",
+        "Secondary_id": "NCT02187783",
+        "Statement": "the secondary trial and the primary trial use different units of measure in their results, for the same outcome measurement.",
+        "Label": "Contradiction"
+    },
+    "6f0571f4-e1da-4732-9bdf-8c07bea059c1": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00956813",
+        "Secondary_id": "NCT00320541",
+        "Statement": "the secondary trial and the primary trial report their results using the same units of measure.",
+        "Label": "Contradiction"
+    },
+    "50dae016-a6b4-4ee6-a66a-bf35587cd835": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00293540",
+        "Statement": "On average patients from the primary trial survive over 2 years, however at least one patient from both cohorts died in under 2 years.",
+        "Label": "Entailment"
+    },
+    "c91a6c5a-27f1-4e7b-8f91-34e3d2236e8b": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00293540",
+        "Statement": "On average patients from the primary trial survive over 2 years, over 50 patients from each cohort survived more than 24 months",
+        "Label": "Contradiction"
+    },
+    "0bb34f7b-d21a-4057-876a-25c722e6d50e": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01106898",
+        "Statement": "97% of patients in the primary trial did not experience any Adverse Events",
+        "Label": "Contradiction"
+    },
+    "cf45d975-0c29-4cf3-8f21-c245482a2b32": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01631552",
+        "Secondary_id": "NCT01286987",
+        "Statement": "the secondary trial and the primary trial have completely unrelated outcome measurements, but the same interventions",
+        "Label": "Contradiction"
+    },
+    "fb011e19-d4fb-4e6c-b7c9-7a7238f78970": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00319748",
+        "Secondary_id": "NCT01194440",
+        "Statement": "Neither the secondary trial or the primary trial measure the percentage of participants in their studies that experience Clinical Benefit (using (RECIST) criteria)",
+        "Label": "Contradiction"
+    },
+    "fd800c89-d30c-4a9a-970b-5385deeab52f": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01383174",
+        "Secondary_id": "NCT00749931",
+        "Statement": "There were significantly more patients in cohort 2 of the secondary trial than in cohort 2 of the primary trial.",
+        "Label": "Entailment"
+    },
+    "d0212d75-c952-4ad3-ae36-bbf675eae985": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00293384",
+        "Statement": "Over 50% of patients in cohort 2 of the primary trial suffered Acute Vomiting after treatment with Aprepitant, Dexamethasone, Cytoxan and Kytril",
+        "Label": "Contradiction"
+    },
+    "bde8a5a0-02fc-4b6e-a91a-a56c420d9c3b": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00791037",
+        "Secondary_id": "NCT01702571",
+        "Statement": "the primary trial and the secondary trial evaluate the Percentage of Participants With Adverse Events of Primary Interest (AEPIs)",
+        "Label": "Contradiction"
+    },
+    "5dea6bbb-13c3-470c-98a6-3879f17de8c7": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00475085",
+        "Statement": "the primary trial reports the total Number of Participants Analyzed in the study, but does not report the number of participants in each cohort.",
+        "Label": "Contradiction"
+    },
+    "7723c9e5-e80e-4ef6-b56d-ee26f8423d90": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00538850",
+        "Secondary_id": "NCT00305695",
+        "Statement": "The the primary trial results report the Severity of Delayed Nausea on a scale of 1-7, and the secondary trial measures the change from baseline to 9 months in bone mineral density (BMD) of the lumbar spine",
+        "Label": "Contradiction"
+    },
+    "b6b719ca-e7f3-4254-a1a0-2946acbcd2fd": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00558272",
+        "Statement": "The AZD0530 175 mg group of the primary trial experienced a greater reduction in primary tumour diameter than the Zoledronic Acid 4 mg group.",
+        "Label": "Contradiction"
+    },
+    "b581bb7b-6aaa-4c8a-81a0-c5e6a58ebcdf": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01997333",
+        "Statement": "The patient with the longest PFS in the primary trial survived 3.5 months without disease progression or death ",
+        "Label": "Entailment"
+    },
+    "ef2352dc-a976-47c6-91cd-6666e3f7b55a": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT03403712",
+        "Secondary_id": "NCT00792077",
+        "Statement": "the primary trial is evaluating the number of patients who suffer treatment related adverse events, whereas the secondary trial measures the Mean sleep time of its patients in hours.",
+        "Label": "Contradiction"
+    },
+    "0c27bcc9-3108-4d4a-901a-22718c22d288": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01128543",
+        "Statement": "The majority of patients in the primary trial experienced complete response by week 24.",
+        "Label": "Contradiction"
+    },
+    "eeb18145-fc5f-41d7-bce3-245d21000e7b": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00709761",
+        "Statement": "Over 1/2 patients in the primary trial treated with Lapatinib 1000 mg + Nab-Paclitaxel experienced a confirmed complete response (CR) .",
+        "Label": "Contradiction"
+    },
+    "585b42d5-c81a-482a-a6bf-b7db6c6edcfb": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02273206",
+        "Statement": "Only 61 Cervical Cancer patients in cohort 1 of the primary trial were up to date for their screenings before the intervention.",
+        "Label": "Contradiction"
+    },
+    "eb088d03-7fdc-48bd-9175-0e7a9cfc7b9a": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02179515",
+        "Statement": "100.0% of cohort 1 of the primary trial suffered some kind of adverse event",
+        "Label": "Entailment"
+    },
+    "a06166e6-12c9-49ba-ad3a-7fcfb5234174": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01631552",
+        "Secondary_id": "NCT01286987",
+        "Statement": "the secondary trial and the primary trial have completely unrelated outcome measurements.",
+        "Label": "Entailment"
+    },
+    "9730b1a6-e9cd-4fd6-b1e4-9916b5903c63": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00182767",
+        "Statement": "In total two patients from the primary trial suffered an Incidence of Dose-limiting Toxicity, 1 from each cohort.",
+        "Label": "Entailment"
+    },
+    "2fb3af20-adda-4fee-860a-ce376d3a0bb2": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01128543",
+        "Statement": "In the primary trial results there were more patients with stable disease in week 12 than week 24, but 0 patients with complete response in week 12 or 24",
+        "Label": "Entailment"
+    },
+    "c0151b24-14ab-4837-965d-88bb8115a560": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01997333",
+        "Statement": "The patient with the longest PFS in the primary trial was in cohort 1, and he survived 3.5 months without disease progression or death ",
+        "Label": "Contradiction"
+    },
+    "5599d5d8-3a7b-41ce-a00c-6e0b609b618d": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02179515",
+        "Statement": "100.0% of cohort 1 of the primary trial suffered at least 1 life-threatening adverse event",
+        "Label": "Contradiction"
+    },
+    "e4b448ba-15ad-4cf8-9343-782d45166891": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02104830",
+        "Secondary_id": "NCT01569087",
+        "Statement": "the primary trial and the secondary trial are studying the same drug, in different doses and with a different outcome measurement.",
+        "Label": "Entailment"
+    },
+    "27aec260-8dcc-4611-8389-dc9c10d3518d": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01614210",
+        "Statement": "Results from the primary trial show that tamoxifen 32 mg po daily for 7 days prior to surgery and for 14 days after Breast cancer surgery reduces the diameter of tumors by 40% on average.",
+        "Label": "Contradiction"
+    },
+    "52b055fd-9e0d-41ad-9eb7-1a724cbc0112": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00756496",
+        "Secondary_id": "NCT00825682",
+        "Statement": "There were no significant differences in the results from the groups in the primary trial, however some differences where found between the Reflexology Group and control group results in the secondary trial.",
+        "Label": "Entailment"
+    },
+    "20c98ba5-ca61-4afe-af57-6de08705a5cd": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02413008",
+        "Secondary_id": "NCT02041429",
+        "Statement": "the secondary trial and the primary trial use different outcome measurements and units of measure.",
+        "Label": "Entailment"
+    },
+    "b033d45a-c039-42de-a073-3c051c6f1e3c": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00709761",
+        "Statement": "Over 1/2 patients in the primary trial treated with Lapatinib 1000 mg + Nab-Paclitaxel experienced either a confirmed complete response (CR) or a confirmed partial response (PR).",
+        "Label": "Entailment"
+    },
+    "dfd8e736-5ef2-4d36-b124-9382e72f982d": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00819182",
+        "Statement": "the primary trial patients in The paced respiration intervention group experienced fewer Hot flashes per day on average than patients in the The fast, shallow respiration group.",
+        "Label": "Entailment"
+    },
+    "cd067ee2-ed1d-403b-aa50-d61a3399fda3": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02988986",
+        "Statement": "after a month of TAK-228 Plus Tamoxifen treatment patients in the primary trial experienced a 10% reduction in the Percentage of cells with Ki67 expression  ",
+        "Label": "Contradiction"
+    }
+}

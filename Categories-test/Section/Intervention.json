@@ -1,0 +1,1064 @@
+{
+    "791790a6-187b-4e4b-be5f-9e5304e9ec2c": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01301729",
+        "Secondary_id": "NCT00021255",
+        "Statement": "HER2 + Patients in the primary trial receive the same dosage of Trastuzumab as patients in cohort 2 of the secondary trial throughout the entire duration of the trial",
+        "Label": "Contradiction"
+    },
+    "56530063-b408-47f2-8421-6be825f5559c": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00104650",
+        "Statement": "The Interventions in the primary trial are administered through different routes.",
+        "Label": "Entailment"
+    },
+    "64df451c-f868-49e6-9b4e-a325e62ce837": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00365365",
+        "Statement": "the primary trial participants do not receive any vaccines",
+        "Label": "Entailment"
+    },
+    "dc4765a3-6168-4594-969b-3ce5ea7dc02a": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00753415",
+        "Statement": "Cohort A and B of the primary trial are administered the same Three electroporation injections of LD V934",
+        "Label": "Contradiction"
+    },
+    "fd0fa999-2f1c-400d-977d-2d45dd9c358c": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00305695",
+        "Secondary_id": "NCT00475085",
+        "Statement": " intervention 1 in the primary trial, and all intervention drugs in the secondary trial must be administered intravenously.",
+        "Label": "Contradiction"
+    },
+    "bca4c94d-4a49-4e05-82ed-0d5c9707685b": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00357734",
+        "Secondary_id": "NCT00365105",
+        "Statement": "The intervention in the primary trial consists of a single drug, whereas in the secondary trial the intervention requires at least 3 different drugs.",
+        "Label": "Entailment"
+    },
+    "328417f9-8f45-4114-82d7-9396b6bc578e": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00266110",
+        "Statement": "Patients in the primary trial will need to receive one single injection on day 8 of the study.",
+        "Label": "Contradiction"
+    },
+    "40d84c7b-e126-4d6f-9588-eb9c385ca716": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02550795",
+        "Secondary_id": "NCT00416715",
+        "Statement": "Group 2 of the primary trial recieves 0.5ug/kg of myalgias (5ml), patients in the secondary trial cohorts do not receive any myalgias.",
+        "Label": "Contradiction"
+    },
+    "576967ff-d2bb-4d1c-b2a1-8516ceb7a519": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01535040",
+        "Statement": "In the primary trial the placebo intervention and the Memantine intervention are both administered orally, once daily.",
+        "Label": "Contradiction"
+    },
+    "6c29e8c1-36ca-4e6e-b4dc-f1e91b98e546": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01597193",
+        "Statement": "cohort 2 of the primary trial is administered Enzalutamide orally, whereas cohort 1 recieves it by IV",
+        "Label": "Contradiction"
+    },
+    "1a76bce8-07e2-4b30-adc8-3c095f0d62b3": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01301729",
+        "Secondary_id": "NCT00021255",
+        "Statement": "At several points during the trials Patients in the primary trial receive the same dosage of Trastuzumab as patients in cohort 2 of the secondary trial",
+        "Label": "Entailment"
+    },
+    "455d059c-c3c4-4a09-be0d-a14b9568a0d2": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01111825",
+        "Statement": "cohort 1 of the primary trial is administered PR negative, ER negative and HER- whereas cohort 2 recieves HER2+",
+        "Label": "Contradiction"
+    },
+    "6d37ed53-a6e4-403e-8b93-9954a6486dbc": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01969448",
+        "Statement": "laser-assisted fluorescence angiography is used for both interventions in the primary trial.",
+        "Label": "Entailment"
+    },
+    "11cb71ed-1304-42f0-b416-3679c3e9e1b3": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02320123",
+        "Statement": "Only cohort 1 of the primary trial will view the Educational DVD as part of the intervention, Cohort 2 will instead receive a regular dosage of radiotherapy",
+        "Label": "Contradiction"
+    },
+    "6ddf4b5b-69e2-46e1-b032-69c3173fd8ef": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01920061",
+        "Secondary_id": "NCT01766102",
+        "Statement": "the primary trial uses a 1 month cycle for its intervention, the secondary trial, on the other hand does not have a cyclic treatment in place.",
+        "Label": "Contradiction"
+    },
+    "4e91cee2-910e-4f08-8a85-1f13545391c3": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00741039",
+        "Statement": "Every participant in the primary trial recieves the same intervention, regardless of whether or not they have cancer.",
+        "Label": "Entailment"
+    },
+    "18c281a1-43bd-47f5-9534-feddfcf0a282": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00021255",
+        "Statement": "Both cohorts of the primary trial receive the same dosage of Docetaxel, Doxorubicin and Cyclophosphamide throughout the trial at the same frequency, however cohort 2 includes three extra treatment cycles of these particular drugs",
+        "Label": "Contradiction"
+    },
+    "43b9c2c8-0785-4885-901b-91a1f893858f": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01290536",
+        "Secondary_id": "NCT02403271",
+        "Statement": "The the primary trial intervention consists of Radioembolization using TheraSpheres, on the other hand the secondary trial intervention is based on ibrutinib and MEDI4736.",
+        "Label": "Entailment"
+    },
+    "99433bba-fce5-4b0a-a076-1f699b51472d": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00963911",
+        "Statement": "several of the primary trial candidates are administered 1000 mcg of talazoparib daily, as part of the intervention",
+        "Label": "Contradiction"
+    },
+    "135763e3-70fd-478d-991c-717d6ed55bb3": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01171924",
+        "Statement": "cohort 1 and 2 of the primary trial receive the same dosage of CUDC-101, however cohort 1 is administered CUDC-101 more often.",
+        "Label": "Entailment"
+    },
+    "6cbfc99b-6531-412f-bd30-b4a803983831": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01920061",
+        "Secondary_id": "NCT01766102",
+        "Statement": "the primary trial uses a 3 week cycle for its intervention, the secondary trial, on the other hand does not have a cyclic treatment in place.",
+        "Label": "Entailment"
+    },
+    "6a3053ef-4495-4c18-9da7-68cf5ed254e0": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00838929",
+        "Statement": "Every patient in the primary trial is receives a dose of 100 to 1600 \u00ac\u00a8\u00ac\u00b5g fentanyl sublingual spray during radiation therapy",
+        "Label": "Contradiction"
+    },
+    "cb36e435-6dc9-4e7b-939b-9da6ceef2a49": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00786838",
+        "Statement": "The placebo and Trabectedin intervention in the primary trial are both administered through a 3-hour intravenous infusion on a bi-weekly basis.",
+        "Label": "Contradiction"
+    },
+    "42c38d71-6a83-4967-ad81-ec38c6b5aafd": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01597193",
+        "Statement": "cohort 2 of the primary trial is administered twice the dose of Enzalutamide as cohort 1",
+        "Label": "Entailment"
+    },
+    "587e611a-9c3b-4557-b3ca-56a7dcc6ce1b": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01091974",
+        "Secondary_id": "NCT02807844",
+        "Statement": "In the primary trial only one cohort recieves Armodafinil P.O. daily, and in the secondary trial all patients receive the same dose of PDR001, but different doses of MCS110.",
+        "Label": "Entailment"
+    },
+    "58165e03-4aa6-4d0c-8256-dbc92ee900c4": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00662025",
+        "Statement": "CAPECITABINE was administered orally every day, to every patient in cohort 2 of the primary trial for the first 21-day cycle",
+        "Label": "Contradiction"
+    },
+    "2d36fa83-b68c-420e-873f-e69374d0741f": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00792077",
+        "Secondary_id": "NCT00553358",
+        "Statement": "the primary trial uses higher doses of Lenalidomide than the secondary trial uses of Lapatinib in intervention 1, and the primary trial intervention lasts for a longer period of time.",
+        "Label": "Contradiction"
+    },
+    "fe5928a4-1a0c-4c41-9b85-8d7785a8ab4c": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01091974",
+        "Secondary_id": "NCT02807844",
+        "Statement": "In the primary trial only one cohort recieves Armodafinil P.O. daily, and in the secondary trial all patients receive the same 100 mg dose of PDR001, and 1 mg/kg dose of MCS110.",
+        "Label": "Contradiction"
+    },
+    "437d5311-f0fd-4d61-82a2-5db0d07415f6": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01730729",
+        "Secondary_id": "NCT01086605",
+        "Statement": "the primary trial intervention is given orally, whereas the secondary trial intervention is exclusively administered through a needle or tube inserted into a vein",
+        "Label": "Entailment"
+    },
+    "4c926c31-8786-47b0-a032-1d59f759bca5": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT03069313",
+        "Secondary_id": "NCT01535040",
+        "Statement": "the primary trial and the secondary trial adminster their interventions orally.",
+        "Label": "Contradiction"
+    },
+    "a6e81477-f863-4a83-9007-fd2f1f5c6781": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01286987",
+        "Statement": "Breast Cancer and Ovarian/ Peritoneal Cancer patients in the primary trial undergo the same intervention.",
+        "Label": "Entailment"
+    },
+    "2312576f-7c8d-4fcd-80e8-42cf3d81dd04": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01527487",
+        "Statement": "cohort 1 of the primary trial recieves higher doses of Eribulin than cohort 2 patients receive of Docetaxel",
+        "Label": "Contradiction"
+    },
+    "a8268e5e-d758-4dcf-8dd9-78c2016bc7f6": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT03125941",
+        "Statement": "Both the primary trial cohorts receive pre-operative Dexamethasone",
+        "Label": "Entailment"
+    },
+    "1bd849aa-409c-4214-a930-4d187a645466": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01171924",
+        "Statement": "cohort 1 and 2 of the primary trial receive the same dosage of CUDC-101, at the same frequency, with the only difference being that cohort 1 also recieves PD-0332991 once weekly.",
+        "Label": "Contradiction"
+    },
+    "5578e4a3-95d9-4803-8d13-b9c0276f92e0": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00021255",
+        "Statement": "Both cohorts of the primary trial receive the same dosage of Docetaxel, Doxorubicin and Cyclophosphamide throughout the trial at the same frequency",
+        "Label": "Entailment"
+    },
+    "5e92a3fd-5ffa-49db-9978-897321839068": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00569166",
+        "Statement": "Cohorts 1 and 2 of the primary trial follow the same paced breathing instructional CD, however cohort 2 practices twice a dayand recieves weekly antineoplastic chemotherapy.",
+        "Label": "Contradiction"
+    },
+    "cc6601cf-3aa0-44f7-8476-f3dfc34e7412": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00698035",
+        "Secondary_id": "NCT01706081",
+        "Statement": "the primary trial is using topical interventions, and the secondary trial is testing an Inhalation intervention.",
+        "Label": "Contradiction"
+    },
+    "8aca5f0b-c998-4e51-9e53-e23294e61867": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00305695",
+        "Secondary_id": "NCT00475085",
+        "Statement": "The intervention 1 in the primary trial is administered by IV, and all intervention drugs in the secondary trial can be administered orally.",
+        "Label": "Entailment"
+    },
+    "9d9fc91e-b6a2-4ab8-bb28-a0a182574d90": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00662025",
+        "Statement": "Sunitinib was administered orally every day, to every patient in the primary trial for the entire duration of the study.",
+        "Label": "Entailment"
+    },
+    "726add6d-9f17-4e3e-a43e-8b391fbb953b": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01313117",
+        "Secondary_id": "NCT01606748",
+        "Statement": "Patients in the primary trial will receive higher doses of Alpha Lipoic Acid throughout the study duration, whereas, patients in cohort 1 of the secondary trial receive the same dose of Necitumumab for the entire duration of the trial.",
+        "Label": "Entailment"
+    },
+    "8c07a493-66a5-4728-ae22-d6c45b2215a8": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00373256",
+        "Statement": "The difference between cohort 1 and 2 of the primary trial is that cohort 1 is administered 25 mg to 37.5 mg of sunitinib daily, whereas cohort 2 recieves 10 mg/kg of Bevacizumab",
+        "Label": "Entailment"
+    },
+    "d475c476-8172-47a0-bf91-7ef5d0f6d081": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00836186",
+        "Secondary_id": "NCT00451555",
+        "Statement": "the primary trial participants receive whole breast radiation therapy , and both cohorts of the secondary trial receive 500 mg of Fulvestrant in a tablet form to be taken BID.",
+        "Label": "Contradiction"
+    },
+    "e2979c27-0eb6-487d-a940-646685e1934b": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01314963",
+        "Statement": "The difference between intervention one and two of the primary trial is that intervnetion 1 uses pIHGC, and intervention 2 uses stantdard GP.",
+        "Label": "Entailment"
+    },
+    "a6299338-84c5-469d-9bd0-eff13b90a7eb": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT03069313",
+        "Secondary_id": "NCT01535040",
+        "Statement": "the primary trial adminsters its intervention sublingually, and the secondary trial adminsters it orally.",
+        "Label": "Entailment"
+    },
+    "5e301f1c-087e-4ca4-b679-cc229d1c0d27": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01975831",
+        "Statement": "The only difference between interventions 1 and 2 of the primary trial is that cohort 1 recieves 0.7mg less of Durva in their monthly injections compared to cohort 2.",
+        "Label": "Contradiction"
+    },
+    "292d0dd3-1b9c-4291-b367-0cc1666178db": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01419717",
+        "Secondary_id": "NCT01314963",
+        "Statement": "the primary trial requires patients to receive 120 milligrams of denosumab injected subcutaneously every month, the secondary trial does not require injection, instead using Lymphoscintigraphy.",
+        "Label": "Contradiction"
+    },
+    "f8a72a9e-357d-4786-8d5d-66ee4ce4d1b2": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00194779",
+        "Secondary_id": "NCT01743560",
+        "Statement": "the primary trial participants are administered over 7 different types of drugs and have to undergo surgery, whereas the secondary trial participants only receive two different drugs and do not have to undergo any surgery",
+        "Label": "Entailment"
+    },
+    "81521795-13b4-46d4-a03e-51ab823e9756": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00148668",
+        "Statement": "Both interventions in the primary trial include trastuzumab",
+        "Label": "Entailment"
+    },
+    "b6902408-8d60-438b-bb38-416d4a4d76fb": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00963911",
+        "Statement": "None of the primary trial candidates have to perfom regular exercise as part of the intervention",
+        "Label": "Entailment"
+    },
+    "c484c0e8-0530-47cb-89dc-da4c4a7f4c0b": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02234479",
+        "Secondary_id": "NCT01920061",
+        "Statement": "the primary trial is testing the effects of different radiation therapies on its study groups, whereas the secondary trial is testing different doses of the same treatment on its study group.",
+        "Label": "Contradiction"
+    },
+    "8be0e7b4-f74d-4205-a543-1247762bb467": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00825682",
+        "Secondary_id": "NCT00867217",
+        "Statement": "The intervention in the secondary trial last 15 more weeks than the intervention detailed in the primary trial.",
+        "Label": "Entailment"
+    },
+    "2c4acb3d-7009-4a19-ac0e-703a96740738": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02320123",
+        "Statement": "Only cohort 1 of the primary trial will view the Educational DVD as part of the intervention",
+        "Label": "Entailment"
+    },
+    "b3b66b49-6a4c-4c26-b46c-915ab45374ff": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01908101",
+        "Secondary_id": "NCT00076024",
+        "Statement": "the primary trial patients receive higher doses of radiation therapy than the secondary trial participants",
+        "Label": "Contradiction"
+    },
+    "73876da9-0c79-43eb-9d1f-b7f2d729f43c": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00245050",
+        "Secondary_id": "NCT02961790",
+        "Statement": "the primary trial had one test group and one placebo group, the secondary trial had 2 test groups.",
+        "Label": "Entailment"
+    },
+    "ffacecd7-caae-434a-866d-a3a25d4f00ac": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02509156",
+        "Statement": "The placebo intervention and the Allo-MSCs intervention of the primary trial are administered in the same dose by transendocardial injection.",
+        "Label": "Entailment"
+    },
+    "47bcd1c5-f95d-4e21-a999-4bd220c5b940": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00838929",
+        "Statement": "Every patient in the primary trial is required to swallow a capsule of Vorinostat daily during radiation therapy",
+        "Label": "Entailment"
+    },
+    "1943100e-196d-4022-a38a-9ae0dd816294": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01314963",
+        "Statement": "The difference between intervention one and two of the primary trial is that intervnetion 1 uses higher doses of radioactive Tc99M sulfur colloid  than intervention 2.",
+        "Label": "Contradiction"
+    },
+    "f8e8c733-3fc0-4699-814f-b5d505c71435": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00373256",
+        "Statement": "The difference between cohort 1 and 2 of the primary trial is that cohort 1 is administered 25 mg of sunitinib daily, whereas cohort 2 recieves 90 mg/m^2 paclitaxel",
+        "Label": "Contradiction"
+    },
+    "285b3905-8e47-4b26-8aa5-2d9d7f717a6c": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00416715",
+        "Secondary_id": "NCT02761642",
+        "Statement": "Candidates for the secondary trial study group receive weekly subcutaneous (SC) injections, whereas the primary trial participants do not receive any injections.",
+        "Label": "Entailment"
+    },
+    "aecd2958-c3b4-4d87-82f1-07add215b1e8": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT03125941",
+        "Statement": "cohort 1 of the primary trial receive pre-operative Dexamethasone, whereas cohort 2 recieves Dexamethasone 2 hours after the operation.",
+        "Label": "Contradiction"
+    },
+    "561d1a70-6bd1-42f7-9e2a-73b9622a449c": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00245050",
+        "Secondary_id": "NCT02961790",
+        "Statement": "the primary trial had one test group and one placebo group, the secondary trial had 1 test group and 1 control group.",
+        "Label": "Contradiction"
+    },
+    "e1040054-0fe6-4c92-be82-f2b5b79282a5": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00054028",
+        "Secondary_id": "NCT02122796",
+        "Statement": "Suramin and Paclitaxel are administered to all patients in the primary trial, and the secondary trial intervention section does not describe what drugs are to be administered.",
+        "Label": "Entailment"
+    },
+    "282c18a2-64b1-47cf-8563-db8db40dadb6": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00321048",
+        "Statement": "Patients in cohort 1 and 2 of the primary trial receive the same doses of radiation therapy, and all undergo a SPECT scan.",
+        "Label": "Entailment"
+    },
+    "ea1d804d-bac9-4ebd-a6bd-0705c988927f": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00586326",
+        "Statement": "The the primary trial intervention section does not outline a treatment cycle or any description of the treatment",
+        "Label": "Contradiction"
+    },
+    "17413685-69fd-453f-af49-29982a6c95b6": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00741039",
+        "Statement": "Participants in cohort 1 of the primary trial are administered with Pneumococcus vaccine and those in cohort 2 are administered an Influenza vaccine.",
+        "Label": "Contradiction"
+    },
+    "e78805f7-1b81-4cd9-a3c7-591886fd5d70": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00871858",
+        "Statement": "Paclitaxel is only used in the cohort 1 intervention of the primary trial, whereas cohort 2 is administered fulvestrant instead",
+        "Label": "Contradiction"
+    },
+    "42857f32-4798-4767-a0c7-f74cdcab7a9b": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00270894",
+        "Statement": "participants in the primary trial receive 4 different drugs throughout the study duration, with a maximum dose of 100 mg/m^2",
+        "Label": "Contradiction"
+    },
+    "9c2adaba-1ac9-4a7c-a710-14ac7d2056fd": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01468675",
+        "Statement": "Neither cohort of the primary trial recieves any counselling, risk assessment or CBT in the interventions.",
+        "Label": "Contradiction"
+    },
+    "623db2b4-6824-42e4-9ad6-39cf3bf14dab": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00569166",
+        "Statement": "Cohorts 1 and 2 of the primary trial follow the same paced breathing instructional CD, however cohort 2 practices twice a day.",
+        "Label": "Entailment"
+    },
+    "d94a09b9-8201-43f3-9b27-cab0bc473af0": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00825682",
+        "Secondary_id": "NCT00867217",
+        "Statement": "The intervention in the secondary trial last 3 times longer than the intervention detailed in the primary trial.",
+        "Label": "Contradiction"
+    },
+    "93bb8a0e-e84c-4730-b559-22d912103993": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00792077",
+        "Secondary_id": "NCT00553358",
+        "Statement": "the primary trial uses higher doses of Lenalidomide than the secondary trial uses of Lapatinib in intervention 1.",
+        "Label": "Entailment"
+    },
+    "559c1faa-17b6-42c7-9f63-0cd58df39bfa": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00253708",
+        "Secondary_id": "NCT02222922",
+        "Statement": "the primary trial does not test any drug based treatments, whereas the secondary trial tests two different drugs.",
+        "Label": "Contradiction"
+    },
+    "8b9a4f04-25f6-45d2-a4fe-52e5bd3d22de": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02807844",
+        "Statement": "All patients in the primary trial receive at least 20mg of MCS110 every 3 weeks, and over 130 mg of PDR001 every other week.",
+        "Label": "Contradiction"
+    },
+    "851e1a1b-0b8e-4aef-a7e3-f06c036fe537": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00496860",
+        "Statement": "cohort 1 of the primary trial is administered 0.035 mg of ALT-801 less than cohort 2",
+        "Label": "Contradiction"
+    },
+    "b25a8f34-96ce-4ea1-a140-bf5b0ffe7f52": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01468675",
+        "Statement": "Neither cohort of the primary trial recieves any drugs, radiotherapy or CBT in the interventions.",
+        "Label": "Entailment"
+    },
+    "9e3cf2a2-6713-4d07-adde-e334b49ca6ec": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02122796",
+        "Secondary_id": "NCT01421472",
+        "Statement": "the primary trial candidates receive less weekly MM-121 and Paclitaxel than cohort 1 the secondary trial candidates",
+        "Label": "Entailment"
+    },
+    "b9074beb-a639-46ba-966b-b0db266efffc": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00911898",
+        "Statement": "The the primary trial intervention section dose not describe the method of administration, dosage or cycle.",
+        "Label": "Entailment"
+    },
+    "2a0b1a83-299d-404d-96e5-67ee65173dde": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00836186",
+        "Secondary_id": "NCT00451555",
+        "Statement": "the primary trial participants receive whole breast radiation therapy , and both cohorts of the secondary trial receive intramuscular injections aswell as medication to be taken orally.",
+        "Label": "Entailment"
+    },
+    "28a88ea8-4cea-404c-9ad7-cb1be9c19d7f": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00871858",
+        "Statement": "Paclitaxel is not used in either of the primary trial interventions",
+        "Label": "Entailment"
+    },
+    "505ccc8c-b07a-4902-b8c3-4d3b4891779a": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00266110",
+        "Statement": "Patients in the primary trial will need to receive several injections",
+        "Label": "Entailment"
+    },
+    "58614e8d-770e-4bfe-b74b-e2d429ef072f": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00256698",
+        "Secondary_id": "NCT02286843",
+        "Statement": "Perjeta is used in both cohorts of the secondary trial but not applied at all in the primary trial",
+        "Label": "Contradiction"
+    },
+    "5a181517-dbdc-4598-8955-ca1bfa380fa9": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00357734",
+        "Secondary_id": "NCT00365105",
+        "Statement": "The intervention in the primary trial consists of a single drug, ZD1839, whereas in the secondary trial the intervention requires at least 3 different drugs, including Zoledronic acid, Samarium-153 and pegfilgrastim.",
+        "Label": "Contradiction"
+    },
+    "10f7c7cf-b7e2-4d21-8870-1fdbcc7937f5": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01535040",
+        "Statement": "In the primary trial the placebo intervention and the Memantine intervention are administered at the same frequency for the same duration of time.",
+        "Label": "Entailment"
+    },
+    "ce8a4f39-efff-4fd3-b850-4fc5c30270ef": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01770353",
+        "Secondary_id": "NCT01138046",
+        "Statement": "the primary trial and the secondary trial do not use the same drugs, dosages or frequency of administration in their interventions, however they do both use intravenous injections.",
+        "Label": "Entailment"
+    },
+    "6e4be816-3da7-4def-ab23-2a4fda805cd0": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01969448",
+        "Statement": "laser-assisted fluorescence angiography and Lateral radial incisions are used for both interventions in the primary trial.",
+        "Label": "Contradiction"
+    },
+    "e2e8bb00-df98-49c2-a81b-e18ae21516aa": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02509156",
+        "Statement": "The placebo intervention and the Allo-MSCs intervention of the primary trial are administered in the same dose by a single transendocardial injection.",
+        "Label": "Contradiction"
+    },
+    "6b3619d3-21ea-437e-bb0f-f124cf636ca5": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00365365",
+        "Statement": "the primary trial participants receive HER2/neu peptide vaccine admixed with sargramostim (GM-CSF) ID on days 1, 8, and 15",
+        "Label": "Contradiction"
+    },
+    "0a1cb41e-a5f8-42ca-bec7-f9bc1291037c": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00950911",
+        "Secondary_id": "NCT00999921",
+        "Statement": "The dosage of Zoledronic Acid  in Intervention 1 of the primary trial is 12 times higher than the dosage of Denosumab used in intervention 1 of the secondary trial.",
+        "Label": "Contradiction"
+    },
+    "ddf4fc68-7920-4212-ac8b-7453ebeb49fb": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01806675",
+        "Statement": "Both the primary trial study groups will undergo the same 18F-FDG and 18F-FPPRGD2 positron emission tomography / computed tomography (PET/CT) imaging procedures.",
+        "Label": "Entailment"
+    },
+    "86ee12d2-2095-4ece-a7d6-f9494b51f3a6": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00698035",
+        "Secondary_id": "NCT01706081",
+        "Statement": "the primary trial is using hormonal interventions, and the secondary trial is testing an acupuncture intervention.",
+        "Label": "Entailment"
+    },
+    "52d4cfdf-7677-4f4c-8020-4f5271393df9": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00118157",
+        "Statement": "Patients participating in the primary trial receive oral medication twice a day for a full month.",
+        "Label": "Entailment"
+    },
+    "496667f2-e493-4b4e-a257-7b8de3833e8b": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00786838",
+        "Statement": "The placebo and Trabectedin intervention in the primary trial are administered in the same manner, but on different days.",
+        "Label": "Entailment"
+    },
+    "d904b234-fed6-473e-bd40-8f37f4a4e440": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01908101",
+        "Secondary_id": "NCT00076024",
+        "Statement": "the primary trial and the secondary trial do not test the same drugs",
+        "Label": "Entailment"
+    },
+    "90c519e9-7981-4a72-af6a-cc032657458a": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00911898",
+        "Statement": "The the primary trial intervention section requires surgical and imaging procedures.",
+        "Label": "Contradiction"
+    },
+    "a60074c0-d7a6-47cc-b980-ee1c0a791f66": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01881230",
+        "Statement": "Both cohorts of the primary trial receive the same doses of Abraxane",
+        "Label": "Entailment"
+    },
+    "152fc619-bbb0-40ff-aa3e-5722f62f6a84": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00321048",
+        "Statement": "Patients in cohort 1 and 2 of the primary trial receive the same doses of radiation therapy, however the intervention for cohort one carries on for two weeks longer.",
+        "Label": "Contradiction"
+    },
+    "eca5c391-f479-448d-bff8-313a7df673b4": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00254592",
+        "Secondary_id": "NCT00404066",
+        "Statement": "the primary trial and the secondary trial both administer cyclophosphamide, Paclitaxel and pegfilgrastim to their patient cohorts",
+        "Label": "Contradiction"
+    },
+    "17660aaf-9218-4119-b00c-f3b863718e97": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01451632",
+        "Statement": "Cohort 1 of the primary trial received the same dose of Cetuximab as cohort 2, but had an additional Collaborative Care Intervention",
+        "Label": "Contradiction"
+    },
+    "b16d4167-cb81-44c0-b20d-d1ecbf0bc094": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01730729",
+        "Secondary_id": "NCT01086605",
+        "Statement": "the primary trial intervention is given topically, whereas the secondary trial intervention is exclusively administered through a needle or tube inserted into a vein",
+        "Label": "Contradiction"
+    },
+    "36cbd8dd-9c77-496c-ab43-af1942c86339": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01881230",
+        "Statement": "Both cohorts of the primary trial receive the same doses of Abraxane and Carboplatin",
+        "Label": "Contradiction"
+    },
+    "570b88e9-5036-4ea8-80db-0f48696700af": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02222922",
+        "Secondary_id": "NCT00496860",
+        "Statement": "All the primary trial participants receive higher doses of ALT-801 than the secondary trial participants",
+        "Label": "Contradiction"
+    },
+    "5e93b7d7-89d9-47cd-98b4-5897823889fa": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00918281",
+        "Secondary_id": "NCT01023477",
+        "Statement": "cohort 1 of the primary trial is given an injection of Fluciclatide and cohort 1 of the secondary trial is administered a standard dose of Chloroquine.",
+        "Label": "Entailment"
+    },
+    "2e42ac97-e353-4bbc-b61e-391e0c092689": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01975831",
+        "Statement": "The only difference between interventions 1 and 2 of the primary trial is that cohort 1 recieves 0.7mg/kg less of Durva in their bi-weekly IV infusions compared to cohort 2.",
+        "Label": "Entailment"
+    },
+    "0585f6bd-d582-4fc9-b96b-1355fa083e33": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00194779",
+        "Secondary_id": "NCT01743560",
+        "Statement": "the primary trial participants are administered over 7 different types of drugs by subcutaneous injection and have to undergo surgery, whereas the secondary trial participants only receive two different drugs and several different imaging scans",
+        "Label": "Contradiction"
+    },
+    "4f1bafd9-361f-4981-b6fd-46af736141b4": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00586326",
+        "Statement": "The the primary trial intervention section does not outline a treatment cycle or a description of irradiation doses.",
+        "Label": "Entailment"
+    },
+    "1e24905e-7bf9-4a79-8157-8948f108ecb7": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01111825",
+        "Statement": "Neiter of the primary trial cohorts receive any invasive surgery or Neratinib ",
+        "Label": "Entailment"
+    },
+    "5d98b3df-684a-466d-93da-5a672f602db6": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02178722",
+        "Secondary_id": "NCT00428220",
+        "Statement": "the primary trial participants receive pembrolizumab twice as frequently as participants in the secondary trial receive sunitinib.",
+        "Label": "Contradiction"
+    },
+    "61a6a476-9283-4cde-89e7-5f1405f690c1": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00118157",
+        "Statement": "Patients participating in the primary trial receive 100 mg/m2 oral lapatinib twice a day for a full month.",
+        "Label": "Contradiction"
+    },
+    "5c00eee7-bb33-45e5-97c6-4cfc34946cdf": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00253708",
+        "Secondary_id": "NCT02222922",
+        "Statement": "the primary trial does not test any drug based treatments, whereas the secondary trial tests different doses of one drug based-treatment",
+        "Label": "Entailment"
+    },
+    "3a141563-97b8-4154-8c9c-f1f551ec7969": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01591746",
+        "Secondary_id": "NCT01045421",
+        "Statement": "Neither cohort of the primary trial recieves alisertib, and the two cohorts of the secondary trial receive different doses",
+        "Label": "Contradiction"
+    },
+    "5fcf6210-c07a-4b8e-9944-c2f0714e4d69": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02222922",
+        "Secondary_id": "NCT00496860",
+        "Statement": "All the primary trial participants receive lower doses of drugs than the secondary trial participants",
+        "Label": "Entailment"
+    },
+    "40fc3a97-0a5d-4f19-ba94-7c4668d0538d": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00256698",
+        "Secondary_id": "NCT02286843",
+        "Statement": "Arimidex is used in both cohorts of the primary trial but not applied at all in the secondary trial",
+        "Label": "Entailment"
+    },
+    "f0f8a0a6-1148-4592-a9b4-27c005038900": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00270894",
+        "Statement": "participants in the primary trial receive 4 different drugs throughout the study duration.",
+        "Label": "Entailment"
+    },
+    "21afdaec-2db5-42b3-b201-b2dee4e23cb7": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01770353",
+        "Secondary_id": "NCT01138046",
+        "Statement": "the primary trial and the secondary trial do not use the same drugs, dosages or frequency of administration in their interventions, however they do both use intravenous injections and MRIs.",
+        "Label": "Contradiction"
+    },
+    "b9b69888-f771-4a3a-b6f0-825510997cca": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00496860",
+        "Statement": "cohort 1 of the primary trial is administered less than half the dose of ALT-801 as cohort 2",
+        "Label": "Entailment"
+    },
+    "464e2cd9-6c59-4692-a3fc-083c374f4a5c": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00148668",
+        "Statement": "Both interventions in the primary trial include the same dose of Paraplatin",
+        "Label": "Contradiction"
+    },
+    "863f7074-fb4b-4c82-9e30-bb785f85f816": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00001832",
+        "Secondary_id": "NCT02038218",
+        "Statement": "The interventions in the primary trial and the secondary trial both require patients to undergo a weekly cycle of 4-Demethyl-4-cholestryloxycarbonylpenclomedine",
+        "Label": "Contradiction"
+    },
+    "3eb3c09a-b46f-49bf-84d6-7aeb1ba0d2a5": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01290536",
+        "Secondary_id": "NCT02403271",
+        "Statement": "The the primary trial intervention consists of Radioembolization using Yttrium-90 glass microspheres and TheraSpheres, on the other hand the secondary trial intervention consists of 560 mg of ibrutinib and 10 mg/kg of MEDI4736 twice daily for a month.",
+        "Label": "Contradiction"
+    },
+    "f45bbf0b-4acd-4166-81a6-6b407cff87ca": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02234479",
+        "Secondary_id": "NCT01920061",
+        "Statement": "the primary trial is testing the effects of different gels on its study groups, whereas the secondary trial is testing different doses of the same treatment on its study group.",
+        "Label": "Entailment"
+    },
+    "b23563cf-e6c4-4279-92b7-39d5e4de96d2": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01591746",
+        "Secondary_id": "NCT01045421",
+        "Statement": "None of the cohort of the primary trial or the secondary trial receive enteric-coated tablets",
+        "Label": "Entailment"
+    },
+    "006c9dd6-c568-4497-81b7-c954568a3b4a": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01286987",
+        "Statement": "Breast Cancer patients in the primary trial are administered 1000 mcg/day of talazoparib whereas Ovarian/ Peritoneal Cancer patients in the primary trial receive only 25 mcg/day talazoparib instead.",
+        "Label": "Contradiction"
+    },
+    "9334239a-f4f1-4192-a35d-93c25c41328d": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02178722",
+        "Secondary_id": "NCT00428220",
+        "Statement": "the primary trial particpants receive Epacadostat twice as frequently as Sunitinib-na\u201a\u00e0\u00f6\u221a\u00f2ve participants in the secondary trial receive sunitinib.",
+        "Label": "Entailment"
+    },
+    "2e2a005f-232f-457a-880e-c3950bc58df6": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00001832",
+        "Secondary_id": "NCT02038218",
+        "Statement": "The interventions in the primary trial and the secondary trial include completely different drug-based treatments.",
+        "Label": "Entailment"
+    },
+    "b95564b8-cdbe-45d0-be91-764d6768e5f9": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02122796",
+        "Secondary_id": "NCT01421472",
+        "Statement": "the primary trial candidates receive less weekly MM-121 and Paclitaxel than cohort 1 the secondary trial candidates, but higher doses of herceptin and doxatel",
+        "Label": "Contradiction"
+    },
+    "8180d5e0-b284-45fe-a390-0c3a54dc663f": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00918281",
+        "Secondary_id": "NCT01023477",
+        "Statement": "cohort 1 of the primary trial is given an intraosseous injection of Fluciclatide and cohort 1 of the secondary trial is administered a standard dose of Chloroquine by IV.",
+        "Label": "Contradiction"
+    },
+    "87fda661-4348-4078-b3e7-915893241ab0": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00054028",
+        "Secondary_id": "NCT02122796",
+        "Statement": "Suramin and Paclitaxel are administered to all patients in the primary trial, and the secondary trial",
+        "Label": "Contradiction"
+    },
+    "7ad6c209-8893-4a2d-963d-24666ef93a80": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01806675",
+        "Statement": "Both the primary trial study groups will undergo the same 18F-FDG and 18F-FPPRGD2 positron emission tomography / computed tomography (PET/CT) imaging procedures, with the exception that cohort 1 will receive a slightly higher dose of 18F-FPPRGD2.",
+        "Label": "Contradiction"
+    },
+    "927d72b0-1f55-4803-9a86-40838c08f923": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01419717",
+        "Secondary_id": "NCT01314963",
+        "Statement": "the primary trial requires patients to receive 120 milligrams of denosumab injected subcutaneously every month, the secondary trial also requires injection, adminstering 0.4 to 1.0 mCi of radioactive Tc99M sulfur colloid.",
+        "Label": "Entailment"
+    },
+    "19e0531d-7907-46b0-ab0c-e616746498e9": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02550795",
+        "Secondary_id": "NCT00416715",
+        "Statement": "Group 2 of the primary trial recieves 0.5ug/kg of dexmedetomidine (5ml), patients in the secondary trial cohorts do not receive any Dexmedetomidine.",
+        "Label": "Entailment"
+    },
+    "fc281ab7-f956-47d7-a938-8778fef1bca0": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00416715",
+        "Secondary_id": "NCT02761642",
+        "Statement": "Candidates for the secondary trial study group receive 3 weekly subcutaneous (SC) injections, whereas the primary trial participants only receive a single injection at the beginning of the study.",
+        "Label": "Contradiction"
+    },
+    "6261a694-0407-4840-8a87-3a0c6f9dea4f": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00702949",
+        "Secondary_id": "NCT00992602",
+        "Statement": "the primary trial treats one of its patient cohorts with 150 mg of oral pregabalin every 2 weeks over 6 weeks, and the secondary trial administers its patients with Depocyt and HD-MTX.",
+        "Label": "Contradiction"
+    },
+    "113abff0-a728-40a6-b637-8bd60a53e626": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01451632",
+        "Statement": "Cohort 1 of the primary trial received the same dose of Cetuximab as cohort 2, but 8mg/kg MM-121 less than cohort 2.",
+        "Label": "Entailment"
+    },
+    "dbd5f70e-0fa9-4b5e-af0e-0ad9efc49bc6": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01222390",
+        "Secondary_id": "NCT02509156",
+        "Statement": "There are no X-rays, ultrasound, CT scans or MRIs included the interventions of the primary trial and the secondary trial",
+        "Label": "Entailment"
+    },
+    "84942825-f636-4dcf-af2e-172012c0cc9d": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01527487",
+        "Statement": "cohort 1 of the primary trial recieves higher doses of Cyclophosphamide than Eribulin and cohort 2 patients receive higher doses of Cyclophosphamide than Docetaxel",
+        "Label": "Entailment"
+    },
+    "943f62ca-d87c-4a5e-9355-6750d7d9b58f": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00950911",
+        "Secondary_id": "NCT00999921",
+        "Statement": "The dosage of Denosumab in Intervention 1 of the primary trial is 12 times higher than the dosage of Tamoxifen in intervention 1 of the secondary trial.",
+        "Label": "Entailment"
+    },
+    "99a6cb19-b6d8-4cb7-84e1-be559854caa6": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02807844",
+        "Statement": "All patients in the primary trial receive at least 20mg of MCS110 every 3 weeks.",
+        "Label": "Entailment"
+    },
+    "70539b18-50b0-43f7-b676-2143de2dc3e8": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00254592",
+        "Secondary_id": "NCT00404066",
+        "Statement": "the primary trial and the secondary trial both administer cyclophosphamide to their patient cohorts",
+        "Label": "Entailment"
+    },
+    "dcfc0053-b963-4542-ae02-228d3d2bd98e": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00104650",
+        "Statement": "The Interventions in the primary trial included different medications but are administered through the same routes.",
+        "Label": "Contradiction"
+    },
+    "eb555e01-0a12-45a1-99ad-7d7dafbe8912": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00753415",
+        "Statement": "Cohort A and B of the primary trial are administered the same Two IM injections of LD V935, at the same point in the cycle.",
+        "Label": "Entailment"
+    },
+    "094e7aec-88db-4ad0-b995-ece8587fd48b": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01222390",
+        "Secondary_id": "NCT02509156",
+        "Statement": "There are no X-rays, transendocardial injections,  CT scans or MRIs included the interventions of the primary trial and the secondary trial",
+        "Label": "Contradiction"
+    },
+    "58fa0ef4-0355-42bc-8378-fef98752b05e": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01313117",
+        "Secondary_id": "NCT01606748",
+        "Statement": "Patients in the primary trial will receive higher doses of Alpha Lipoic Acid throughout the study duration, up to a maximum of 100 mg three times daily, whereas, patients in cohort 1 of the secondary trial receive the same dose of Necitumumab for the entire duration of the trial.",
+        "Label": "Contradiction"
+    },
+    "b53a2698-dfb0-416d-9f3e-2e800a360b3e": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00702949",
+        "Secondary_id": "NCT00992602",
+        "Statement": "the primary trial treats one of its patient cohorts with 150 mg of oral pregabalin twice daily, and the secondary trial administers its patients with Depocyt and HD-MTX.",
+        "Label": "Entailment"
+    }
+}
